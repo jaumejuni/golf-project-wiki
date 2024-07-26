@@ -1,0 +1,20 @@
+figure {
+    /* border: 1px #cccccc solid; */
+    padding: 15px 0px 15px  15px;
+    float: right;
+    /* margin: 50px 0px 50px 50px; */
+}
+
+figcaption {
+    background-color: black;
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    float: right;
+    /* margin: 25px 0px 25px 25px; */
+}

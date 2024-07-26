@@ -1,0 +1,24 @@
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/github.com/hugomods/images"]
+	path = themes/github.com/hugomods/images
+	url = https://github.com/hugomods/images
+[submodule "themes/github.com/hugomods/bootstrap"]
+	path = themes/github.com/hugomods/bootstrap
+	url = https://github.com/hugomods/bootstrap
+[submodule "themes/github.com/hugomods/base"]
+	path = themes/github.com/hugomods/base
+	url = https://github.com/hugomods/base
+[submodule "themes/github.com/hugomods/icons"]
+	path = themes/github.com/hugomods/icons
+	url = https://github.com/hugomods/icons
+[submodule "themes/github.com/twbs/icons"]
+	path = themes/github.com/twbs/icons
+	url = https://github.com/twbs/icons
+[submodule "themes/github.com/twbs/bootstrap"]
+	path = themes/github.com/twbs/bootstrap
+	url = https://github.com/twbs/bootstrap
+[submodule "themes/github.com/hugomods/katex"]
+	path = themes/github.com/hugomods/katex
+	url = https://github.com/hugomods/katex
