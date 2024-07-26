@@ -1,7 +1,7 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "What to do with a car over 25 years old?"
+title: "1. What to do with a car over 25 years old?"
 ---
 
 # What to do with a car over 25 years old?
