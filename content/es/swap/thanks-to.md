@@ -1,6 +1,6 @@
 ---
 weight: 3
-title: "Special thanks to..."
+title: "Especial gracias a..."
 ---
 
 # Especial gracias a...
