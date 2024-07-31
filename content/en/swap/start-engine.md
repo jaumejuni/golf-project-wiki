@@ -51,8 +51,10 @@ The lesson learned here is whenever you start a task finish it and do not let th
 ## Instrument cluster
 <figure><video controls><source src="/images/start-engine-02.webm" type="video/webm"></video></figure>
 
-The original instrument cluster is retained, therefore some signals coming the th engine must be adapted to the existing cluster, as they were not designed to be compatible. Those signals are:
+The original instrument cluster is retained, therefore some signals coming from the engine must be adapted to the existing cluster, as they were not designed to be compatible. Those signals are:
 
-1. Engine speed or RPMs. This signal is provided by the new ECU through CAn bus, so an adapter must be bought. In that case a solution from [Van der Veer Engineering](https://www.vdveer-engineering.nl/en/products/can-controller/can-controller-overview) was used.
-2. VSS or speedometer. In Golf MK3, VSS signal comes from the gearbox and in Golf MK5 from ABS, so the signals are different. To be able to adapt the signal a product from [MapDCCD](https://mapdccd.com/vss.html) was used.
-3. Oil temperature. Unfortunately the signals coming from Golf MK3 and MK5 oil temperature sensors are completely different, and here is no adapter available/known till now, so this signal is not available at the instrument cluster.
+1. Engine speed or RPMs. This signal is provided by the new ECU through CAN bus, so an adapter must be used. In that case a solution from [Van der Veer Engineering](https://www.vdveer-engineering.nl/en/products/can-controller/can-controller-overview) was used.
+2. VSS or speedometer. In Golf MK3, VSS signal comes from the gearbox and in Golf MK5 from ABS, so the signals are different. To be able to adapt the signal, a product from [MapDCCD](https://mapdccd.com/vss.html) was used.
+3. Oil temperature. Unfortunately the signals coming from Golf MK3 and MK5 oil temperature sensors are completely different, and there is no adapter available/known till now, so this signal is not available at the instrument cluster for the moment.
+
+The rest of the instrument cluster works are intended.
