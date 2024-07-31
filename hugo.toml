@@ -19,7 +19,8 @@ path = 'github.com/hugomods/bootstrap'
 # sectionPagesMenu = 'main'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
-enableRobotsTXT = true
+enableRobotsTXT = false
+googleAnalytics = "G-JDETYR320R"
 
 [languages]
   [languages.en]
