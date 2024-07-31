@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Swap and restoration"
 ---
 
@@ -117,7 +117,7 @@ As mentioned in the rules of the game section, here there is little room for man
 
 The problem we had is that the final silencer of a Golf MK5 GTI does not fit on the chassis of the Golf MK3, so we had to contact several companies so that they could make us an ECE approved exhaust for the Golf MK5 GTI (BWA) but that could be mounted on a Golf MK3 chassis.
 
-### Additional features
+## Additional features
 
 The extras that can be added to the BWA engine of the Golf MK5 are those shown below. These extras are not eligible for approval and, therefore, are here for informational purposes.
 

@@ -1,9 +1,9 @@
 ---
-weight: 2
+weight: 20
 title: "Swap y restauracion"
 ---
 
-# Cambio de motor y restauración
+# Swap de motor y restauración
 ## Trabajo de carrocería y repintado completo
 
 En abril de 2022 llegó el momento de empezar a desmontar el motor original del Golf y preparar el coche para el trabajo de carrocería y repintado completo.
@@ -21,7 +21,7 @@ A finales de junio de 2022 el coche vuelve al taller de Marc, y toca empezar a t
 
 ### Eje delantero
 
-Como ya hemos comentado en anteriormente, para poder hacer legal el cambio de motor en carretera, el tamaño de los discos delanteros y el número de pistones de la pinza deben ser al menos iguales a los del vehículo donante.
+Como ya hemos comentado en anteriormente, para poder hacer legal el swap de motor en carretera, el tamaño de los discos delanteros y el número de pistones de la pinza deben ser al menos iguales a los del vehículo donante.
 
 En el caso del Golf MK5 GTI, los discos son de 312x25 mm con pinza de un pistón. Tras incontables horas navegando por internet para encontrar el BBK (Big Break Kit) perfecto, es decir, bueno, bonito y barato, me decidí por un kit CEIKA; 345x32 mm y pinzas de 6 pistones, ¡¡un monstruo!!. Pero me equivoqué dos veces.
 
@@ -116,7 +116,7 @@ Como ya hemos comentado en el apartado de reglas del juego, aquí hay poco marge
 
 El problema que teníamos es que el silenciador final de un Golf MK5 GTI no encaja en el chasis del Golf MK3, por lo que tuvimos que contactar con varias empresas para que nos fabricaran un escape homologado ECE para el Golf MK5 GTI (BWA) pero que se pudiera montar en un chasis de Golf MK3.
 
-### Características adicionales
+## Características adicionales
 
 Los extras que se pueden añadir al motor BWA del Golf MK5 son los que se muestran a continuación. Estos extras no son homologables y, por tanto, están aquí a título informativo.
 
