@@ -18,7 +18,7 @@ Otro gran hallazgo. Venden muchos adaptadores para frenos y cajas de cambios, y 
 
 ### [Ceika](https://ceika-store.com/)
 
-Este ha sido un mal hallazgo. Atención al cliente pésima, aunque hay que decir que de momento la calidad de los productos es buena, pero mi experiencia con ellos fue muy mala. Mi historia con ellos es muy sencilla de explicar, debido a un error de comunicación por su parte tuve que pagar el IVA y los derechos de aduana dos veces por un kit de frenos valorado en unos 2.000€. Los errores nos pasan a todos, pero la forma de gestionarlos es lo que marca la diferencia. Simplemente se han librado del problema.
+Este ha sido un mal hallazgo. Atención al cliente pésima, aunque hay que decir que de momento la calidad de los productos es buena, pero mi experiencia con ellos fue muy mala. Mi historia con ellos es muy sencilla de explicar, debido a un error de comunicación por su parte, tuve que pagar el IVA y los derechos de aduana dos veces por un kit de frenos valorado en unos 2.000€. Los errores nos pasan a todos, pero la forma de gestionarlos es lo que marca la diferencia. Simplemente, se han librado del problema.
 
 ### [FMIC.eu Performance](https://fmic.eu/)
 

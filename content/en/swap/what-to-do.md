@@ -44,7 +44,7 @@ From the beginning, I was lucky to have:
 
 ## Rules of the game for an engine swap in Spain
 
-First and foremost, this is neither an exhaustive nor an exact list. The regulations are complex and can change. Therefore, as I mentioned before, it is essential to have an specialised car engineer to guide and take you throughout the entire project.
+First and foremost, this is neither an exhaustive nor an exact list. The regulations are complex and can change. Therefore, as I mentioned before, it is essential to have an specialized car engineer to guide and take you throughout the entire project.
 <figure><img src="/images/first-attempt-03.jpg"><figcaption>First attempt to fit the engine.</figcaption></figure>
 Having said this, the basic rules to be able to certify swaps in Spain are:
 
