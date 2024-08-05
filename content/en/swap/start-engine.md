@@ -12,9 +12,9 @@ The ECU to be ued is the Golf MK5 GTI (BWA) one; 1K0 907 115Q. Obviously it repl
 1. **what to do with all DTCs in the ECU because missing sensors/actuators**. In that case we had to troubleshoot all DTCs and determine whether they were genuine or they could be deleted because the sensor/actuators does not longer exists. Whenever a DTC was genuine we had to further investigate the problem until it was resolved and for the other DTCs a program (DaVinci) to remove them was used, so they were not a problem anymore.
 2. **how to bypass the immobilizer, so the engine can be started**. Here the answer is simple, we had to break the immobilizer with a special program (eeprom) to disable the immobilizer in MED9.1 ECUs.
 
-Because the ECU used was sourced from a scrapyard, a fresh and clean copy of the flash was bought (we do not know whether the previous owner of the ECU made modifications in the flash).
+Because the ECU used was sourced from a scrapyard, a fresh and clean copy of the flash was bought (it is not known whether the previous owner of the ECU made modifications in the flash).
 
-And now we have all pieces; an ECU, an eeprom file read from the ECU and modified so the immobilizer is disabled and a flash with a known state it can be modified (DTCs deleted). Obviously for that we also need special software to be able to read and write the eeprom and flash files from and to the ECU. For that purpose Trasdata software from DimSport was used, with the additional bonus that all checksums were properly calculated.
+And now all pieces are in place; an ECU, an eeprom file read from the ECU and modified so the immobilizer is disabled and a flash with a known state it can be modified (DTCs deleted). Obviously for that we also need special software to be able to read and write the eeprom and flash files from and to the ECU. For that purpose Trasdata software from DimSport was used, with the additional bonus that all checksums were properly calculated.
 
 ## Squeezing the Engine
 
@@ -29,6 +29,7 @@ As part of the swap some of the components were upgraded, the long short, fuel i
 | Fuel Pressure Relief Valve | 06D 130 757 C | 06D 130 757 C |
 | Fuel Pump                  | 06F 127 025 K | 06F 127 025 K |
 | ECU                        | 1K0 907 115 Q | 1K0 907 115 T |
+
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
 The original engine code is a BWA engine, however if the parts in the table above are upgraded to the references under BYD column, the engine becomes a BYD engine. Note the ECU references for BWA and BYD are different, however after some investigation, the hardware for the ECUs are exactly the same, and the only difference is the software, So now the question is how to upload into a BWA ECU the software for a BYD ECU. The answer is somehow simple; upload a fresh BYD eeprom and flash into the 1K0 907 115 Q ECU. More details can be found [here](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).

@@ -12,9 +12,9 @@ La ECU que se utilizará es la del Golf MK5 GTI (BWA); 1K0 907 115Q. Obviamente 
 1. **qué hacer con todos los DTC en la ECU porque faltan sensores/actuadores**. En ese caso, tuvimos que solucionar todos los DTC y determinar si eran genuinos o si se podían eliminar porque el sensor/actuador ya no existía. Siempre que un DTC era genuino, tuvimos que investigar más el problema hasta que se resolvió y para los otros DTC se utilizó un programa (DaVinci) para eliminarlos, por lo que ya no fueron un problema.
 2. **cómo evitar el inmovilizador, para que se pueda arrancar el motor**. Aquí la respuesta es simple, tuvimos que romper el inmovilizador con un programa especial (eeprom) para desactivar el inmovilizador en las ECU MED9.1.
 
-Como la ECU utilizada se obtuvo de un desguace, se compró una copia nueva y limpia de la memoria flash (no sabemos si el propietario anterior de la ECU hizo modificaciones en la memoria flash).
+Como la ECU utilizada se obtuvo de un desguace, se compró una copia nueva y limpia de la memoria flash (no se sabe si el propietario anterior de la ECU hizo modificaciones en la memoria flash).
 
-Y ahora tenemos todas las piezas; una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se puede modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todas las sumas de comprobación se calcularon correctamente.
+Y ahora ya están todas las piezas necesarias; una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se pueden modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todas las sumas de comprobación se calcularon correctamente.
 
 ## Exprimiendo el motor
 
@@ -29,6 +29,7 @@ Como parte del intercambio, se actualizaron algunos de los componentes, el conec
 | Válvula de alivio de presión de combustible | 06D 130 757 C | 06D 130 757 C |
 | Bomba de combustible                        | 06F 127 025 K | 06F 127 025 K |
 | ECU                                         | 1K0 907 115 Q | 1K0 907 115 T |
+
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
 El código de motor original es un motor BWA, sin embargo, si las piezas de la tabla anterior se actualizan a las referencias de la columna BYD, el motor se convierte en un motor BYD. Tenga en cuenta que las referencias de la ECU para BWA y BYD son diferentes, sin embargo, después de algunas investigaciones, el hardware de las ECU es exactamente el mismo y la única diferencia es el software. Entonces, ahora la pregunta es cómo cargar en una ECU BWA el software para una ECU BYD. La respuesta es algo simple: cargue una EEPROM BYD nueva y flashéela en la ECU 1K0 907 115 Q. Puede encontrar más detalles [aquí](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
