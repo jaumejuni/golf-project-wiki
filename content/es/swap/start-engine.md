@@ -18,7 +18,7 @@ Y ahora ya están todas las piezas necesarias; una ECU, un archivo eeprom leído
 
 ## Exprimiendo el motor
 
-Como parte del intercambio, se actualizaron algunos de los componentes, el conector corto largo, los inyectores de combustible, el sensor de presión del riel de combustible, el sensor MAP y la válvula de alivio de presión de combustible. La siguiente tabla muestra los números de referencia para diferentes códigos de motor.
+Como parte del swap, se actualizaron algunos de los componentes, en resumen; los inyectores de combustible, el sensor de presión del riel de combustible, el sensor MAP y la válvula de alivio de presión de combustible. La siguiente tabla muestra los números de referencia para diferentes códigos de motor.
 
 | Descripción                                 | BWA (200 hp)  | BYD (230 hp)  |
 |---------------------------------------------|---------------|---------------|
@@ -32,7 +32,7 @@ Como parte del intercambio, se actualizaron algunos de los componentes, el conec
 
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
-El código de motor original es un motor BWA, sin embargo, si las piezas de la tabla anterior se actualizan a las referencias de la columna BYD, el motor se convierte en un motor BYD. Tenga en cuenta que las referencias de la ECU para BWA y BYD son diferentes, sin embargo, después de algunas investigaciones, el hardware de las ECU es exactamente el mismo y la única diferencia es el software. Entonces, ahora la pregunta es cómo cargar en una ECU BWA el software para una ECU BYD. La respuesta es algo simple: cargue una EEPROM BYD nueva y flashéela en la ECU 1K0 907 115 Q. Puede encontrar más detalles [aquí](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
+El código de motor original es un motor BWA, sin embargo, si las piezas de la tabla anterior se actualizan a las referencias de la columna BYD, el motor se convierte en un motor BYD. hay que tener en cuenta que las referencias de la ECU para BWA y BYD son diferentes, sin embargo, después de algunas investigaciones, el hardware de las ECU es exactamente el mismo y la única diferencia es el software. Entonces, ahora la pregunta es cómo cargar en una ECU BWA el software para una ECU BYD. La respuesta es algo simple: cargue una EEPROM BYD nueva y flashéela en la ECU 1K0 907 115 Q. Puede encontrar más detalles [aquí](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
 
 ## Arranque del motor
 
@@ -52,10 +52,10 @@ La lección aprendida aquí es que siempre que comiences una tarea, termínala y
 ## Cuadro de instrumentos
 <figure><video controls><source src="/images/start-engine-02.webm" type="video/webm"></video></figure>
 
-Se conserva el cuadro de instrumentos original, por lo que algunas señales que llegan al motor deben adaptarse al cuadro existente, ya que no fueron diseñadas para ser compatibles. Esas señales son:
+Se conserva el cuadro de instrumentos original, por lo que algunas señales provenientes del motor deben adaptarse al cuadro existente, ya que no fueron diseñadas para ser compatibles. Esas señales son:
 
-1. Velocidad del motor o RPM. Esta señal la proporciona la nueva ECU a través del bus CAN, por lo que se debe comprar un adaptador. En ese caso se utilizó una solución de [Van der Veer Engineering](https://www.vdveer-engineering.nl/en/products/can-controller/can-controller-overview).
-2. VSS o velocímetro. En el Golf MK3, la señal VSS proviene de la caja de cambios y en el Golf MK5 del ABS, por lo que las señales son diferentes. Para poder adaptar la señal se utilizó un producto de [MapDCCD](https://mapdccd.com/vss.html). 
-3. Temperatura del aceite. Lamentablemente, las señales que llegan de los sensores de temperatura del aceite del Golf MK3 y MK5 son completamente diferentes y, hasta el momento, no hay ningún adaptador disponible o conocido, por lo que esta señal no está disponible en el panel de instrumentos.
+1. Velocidad del motor o RPM. Esta señal la proporciona la nueva ECU a través del bus CAN, por lo que se debe utilizar un adaptador. En ese caso se utilizó una solución de [Van der Veer Engineering](https://www.vdveer-engineering.nl/en/products/can-controller/can-controller-overview).
+2. VSS o velocímetro. En el Golf MK3, la señal VSS proviene de la caja de cambios y en el Golf MK5 del ABS, por lo que las señales son diferentes. Para poder adaptar la señal, se utilizó un producto de [MapDCCD](https://mapdccd.com/vss.html).
+3. Temperatura del aceite. Los sensores de temperatura del aceite del Golf MK3 y MK5 son completamente diferentes, por lo que la única forma de que esa señal esté disponible en el panel de instrumentos del Golf MK3 es usar el sensor de temperatura del aceite del Golf MK3. Después de algunas investigaciones, se encontró un adaptador que permite conectar el sensor del Golf MK3 al final de la carcasa del filtro de aceite del Golf MK5. Para obtener más detalles, consulte la solución proporcionada por [Bar Tek](https://www.bar-tek.com/temperature-gauge-adapter-2-0l-2-5l-tfsi) para ese propósito.
 
-El resto de senales del panel de insrumentos funciona correctamente.
+El resto del panel de instrumentos funciona de manera prevista.

@@ -18,7 +18,7 @@ And now all pieces are in place; an ECU, an eeprom file read from the ECU and mo
 
 ## Squeezing the Engine
 
-As part of the swap some of the components were upgraded, the long short, fuel injectors, fuel rail pressure sensor, MAP sensor and fuel pressure relief valve. The following table shows the reference numbers for different engine codes.
+As part of the swap some of the components were upgraded, the long short; fuel injectors, fuel rail pressure sensor, MAP sensor and fuel pressure relief valve. The following table shows the reference numbers for different engine codes.
 
 | Description                | BWA (200hp)   | BYD (230hp)   |
 |----------------------------|---------------|---------------|
@@ -45,7 +45,7 @@ It was decided to remove the engine wiring harness and check it thoughtfully. Fo
 2. The V50 (coolant circulation pump) was removed. We assume this was done intentionally, however we reintroduced the wiring to support V50.
 <figure><img src="/images/intro-engine-rebuild.jpg" class="thumb-img"><figcaption>Engine Wiring Harness.</figcaption></figure>
 
-And now the key question is, did it work and the engine started?, so the answer is no. So after further investigate and it could be determined that the engine was not properly mounted, valves in one cylinder were bended and the compression was not right, so this stopped the engine starting. Unfortunately the cylinder head had to be disassembled and sent it to a CNC. After several days waiting the cylinder head was back, so it was assembled again (this time properly) and this time yes, the engine started.
+And now the key question is, did it work and the engine started?, so the answer is no. So after further investigation it could be determined that the engine was not properly mounted, valves in one cylinder were bended and the compression was not right, so this stopped the engine starting. Unfortunately the cylinder head had to be disassembled and sent it to a CNC. After several days waiting the cylinder head was back, so it was assembled again (this time properly) and this time yes, the engine started.
 
 
 The lesson learned here is whenever you start a task finish it and do not let the time pass, otherwise you can easily forget things and cause serious problems.
@@ -57,6 +57,6 @@ The original instrument cluster is retained, therefore some signals coming from 
 
 1. Engine speed or RPMs. This signal is provided by the new ECU through CAN bus, so an adapter must be used. In that case a solution from [Van der Veer Engineering](https://www.vdveer-engineering.nl/en/products/can-controller/can-controller-overview) was used.
 2. VSS or speedometer. In Golf MK3, VSS signal comes from the gearbox and in Golf MK5 from ABS, so the signals are different. To be able to adapt the signal, a product from [MapDCCD](https://mapdccd.com/vss.html) was used.
-3. Oil temperature. Unfortunately the signals coming from Golf MK3 and MK5 oil temperature sensors are completely different, and there is no adapter available/known till now, so this signal is not available at the instrument cluster for the moment.
+3. Oil temperature. Golf MK3 and MK5 oil temperature sensors are completely different, so the only way to make that signal available at the Golf MK3 instrument cluster is to use the Golf MK3 oil temp. sensor. After some investigation an adapter was found, that adapter allows to connect the Golf MK3 sensor at the end of the Golf MK5 oil filter housing. For more details look a the solution provided by [Bar Tek](https://www.bar-tek.com/temperature-gauge-adapter-2-0l-2-5l-tfsi) for that purpose.
 
 The rest of the instrument cluster works are intended.
