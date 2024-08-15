@@ -33,7 +33,7 @@ Rear breaks new setup with custom adapter
 My second big mistake was buying the BBK from CEIKA. Their customer service is terrible, and I certainly would not recommend CEIKA to anyone. Today, if I had to buy a BBK for a Golf MK3 I would do it through Epytec; Golf MK4 R32 discs (334x32 mm) and ZR17 calipers from Porsche Cayenne or VW Tuareg.
 <figure><img src="/images/rear-brakes-02.jpg"><figcaption>Rear breaks with custom adapter.</figcaption></figure>
 
-To complete the configuration of the front axle, we added the following elements:
+To complete the configuration of the front axle, the following elements were added:
 
 + New coilovers.
 + Epytec drive shafts. It's important to note here that these shafts are compatible with 02Q gearboxes placed in the OEM position, and the kit from Fabless Manufacturing leaves the motor and gearbox in the OEM position, so everything fits 😅.
