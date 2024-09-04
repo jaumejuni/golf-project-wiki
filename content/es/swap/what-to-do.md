@@ -7,13 +7,14 @@ title: "¿Qué hacer con un coche de más de 25 años?"
 
 ## Al principio
 
-Compré este coche (mi primer coche); un Golf MK3 GTI, en 1996, y siempre le he tenido un cariño especial. He hecho muchos viajes con él y he disfrutado de momentos inolvidables, pero ahora tengo que decidir qué hacer. Pensándolo rápido, hay 2 respuestas sencillas:
+Compré este coche (mi primer coche); un Golf MK3 GTI, en 1996, y siempre le he tenido un cariño especial. He hecho muchos viajes con él y he disfrutado de momentos inolvidables, pero ahora tengo que decidir qué hacer. Pensándolo rápido, hay 2 respuestas posibles:
+
 <figure><img src="/images/beginning-03.jpg"><figcaption>Original engine: ADY 2.0L 8V 115hp.</figcaption></figure>
 
 1. Jubilarlo con todos los honores por los servicios prestados.
-2. Restaurarlo para que luzca como en el salón de exposición.
+2. Restaurarlo para que luzca como nuevo otra vez.
 
-Después de pensármelo durante un viaje con mi hija a los Pirineos de Lérida en agosto de 2021, decidí restaurarlo, pero con un toque diferente. Mantenerlo como está ahora no es una opción, sería como ver a un buen amigo desvanecerse lentamente.
+Después de pensármelo durante un viaje con mi hija a los Pirineos de Lérida en agosto de 2021, decidí restaurarlo, pero con un toque diferente. Mantenerlo como está ahora no es una opción, sería como ver a un buen amigo morir lentamente.
 
 De serie el Golf MK3 GTI solo tiene 115 CV, que era una cifra razonable en su momento, pero siempre he pensado que este coche tiene poca potencia; de hecho es una de sus mayores críticas.
 
@@ -24,7 +25,9 @@ Todo esto no es rápido ni barato, de hecho es mucho más barato comprar un Golf
 ## ¿Cuál es el plan?
 
 El plan es sencillo, cambiar el motor y hacerlo legal para circular por las carreteras españolas.
+
 <figure><img src="/images/beginning-noplate-01.jpg"><figcaption>Front view of the car before starting.</figcaption></figure>
+
 Entrando un poco más en detalle, esto significa:
 
 1. Cambiar el motor actual por un motor Golf MK5 GTI (BWA) de 200 CV.
@@ -45,7 +48,9 @@ Desde el principio tuve la suerte de contar con:
 ## Reglas del juego para un cambio de motor en España
 
 Lo primero y más importante es que esto no es una lista exhaustiva ni exacta. La normativa es compleja y puede cambiar. Por ello, como he comentado antes, es imprescindible contar con un ingeniero especializado en coches que te guíe y te lleve a lo largo de todo el proyecto.
+
 <figure><img src="/images/first-attempt-03.jpg"><figcaption>First attempt to fit the engine.</figcaption></figure>
+
 Dicho esto, las reglas básicas para poder homologar cambios en España son:
 
 1. Las líneas de admisión y escape deben ser las del vehículo donante.
@@ -58,4 +63,4 @@ En mi caso he elegido los siguientes elementos:
 
 1. Motor 2.0L TFSI BWA de 200 CV procedente de un Golf MK5 GTI
 2. Caja de cambios manual 02Q de 6 velocidades procedente de un Golf MK5 GTI.
-3. Discos delanteros de 334x32 mm (procedentes de un Golf MK4
+3. Discos delanteros de 334x32 mm procedentes de un Golf MK4

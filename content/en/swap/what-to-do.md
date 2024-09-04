@@ -7,24 +7,27 @@ title: "What to do with a car over 25 years old?"
 
 ## At the beginning
 
-I bought this car (my first car); a Golf MK3 GTI, in 1996, and I have always had a special affection for him. I have made many trips with him and have enjoyed unforgettable moments, but now I have to decide what to do. Thinking about it quickly, there are 2 simple answers:
+I bought this car (my first car); a Golf MK3 GTI, in 1996, and I have always had a special affection for it. I have made many trips with it and have enjoyed unforgettable moments, but now I have to decide what to do. Thinking about it quickly, there are 2 simple answers:
+
 <figure><img src="/images/beginning-03.jpg"><figcaption>Original engine: ADY 2.0L 8V 115hp.</figcaption></figure>
 
-1. Retire him with full honors for services rendered.
-2. Restore him so it looks like in showroom condition.
+1. Retire it with full honors for the services rendered.
+2. Restore it so it looks like in showroom condition again.
 
 After thinking about it during a trip with my daughter to the Pyrenees in Lleida in August 2021, I decided to restore it, but with a twist. Keeping it as it is now is not an option, it would be like watching a good friend slowly fading away.
 
-As standard the Golf MK3 GTI only has 115hp, which was a reasonable number at the time, but I've always thought this car is underpowered; in fact it is one of his biggest criticisms.
+As standard the Golf MK3 GTI only has 115hp, which was a reasonable number at the time, but I have always thought this car is underpowered; in fact this is one of its biggest criticisms.
 
-On some occasions it has crossed my mind to swap the engine and put something with much more power, therefore why not a Golf MK5 GTI (BWA) TFSI engine with 200hp. Those TFSI engines can be tuned very easily; increase power, reprogram the ECU, change injectors and turbo or upgrade many parts of the engine, where the sky is the limit. But let's not go crazy, the objective s to carry out the swap with the original 200hp BWA engine, so the car can be road legal in Spain.
+On some occasions it has crossed my mind to swap the engine and put something with much more power, therefore why not a Golf MK5 GTI (BWA) TFSI engine with 200hp. Those TFSI engines can be tuned very easily; increase power, reprogram the ECU, change injectors and turbo or upgrade many parts of the engine, where the sky is the limit. But let's not go crazy, the objective is to carry out the swap with the original 200hp BWA engine, so the car can be road legal in Spain.
 
-All this is not fast or cheap, in fact it is much cheaper to buy a second-hand Golf MK5 GTI. And in terms of time at the moment, I've been there for more than 18 months and I haven't finished yet, but I'm having a lot of fun. 
+All this is not fast or cheap, in fact it is much cheaper to buy a second-hand Golf MK5 GTI. And in terms of time at the moment, I've been there for more than 18 months and I have not finished yet, but I'm having a lot of fun. 
 
 ## What is the plan?
 
 The plan is simple, swap the engine and make it road legal, so it can circulate through the Spanish roads.
+
 <figure><img src="/images/beginning-noplate-01.jpg"><figcaption>Front view of the car before starting.</figcaption></figure>
+
 Going a bit more into detail, this means:
 
 1. Swap existing engine for a 200hp Golf MK5 GTI (BWA) engine.
@@ -45,7 +48,9 @@ From the beginning, I was lucky to have:
 ## Rules of the game for an engine swap in Spain
 
 First and foremost, this is neither an exhaustive nor an exact list. The regulations are complex and can change. Therefore, as I mentioned before, it is essential to have an specialized car engineer to guide and take you throughout the entire project.
+
 <figure><img src="/images/first-attempt-03.jpg"><figcaption>First attempt to fit the engine.</figcaption></figure>
+
 Having said this, the basic rules to be able to certify swaps in Spain are:
 
 1. Intake and exhaust lines must be those of the donor vehicle.
