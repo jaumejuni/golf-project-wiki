@@ -16,9 +16,9 @@ Compré este coche (mi primer coche); un Golf MK3 GTI, en 1996, y siempre le he 
 
 Después de pensármelo durante un viaje con mi hija a los Pirineos de Lérida en agosto de 2021, decidí restaurarlo, pero con un toque diferente. Mantenerlo como está ahora no es una opción, sería como ver a un buen amigo morir lentamente.
 
-De serie el Golf MK3 GTI solo tiene 115 CV, que era una cifra razonable en su momento, pero siempre he pensado que este coche tiene poca potencia; de hecho es una de sus mayores críticas.
+De serie el Golf MK3 GTI solo tiene 115cv, que era una cifra razonable en su momento, pero siempre he pensado que este coche tiene poca potencia; de hecho es una de sus mayores críticas.
 
-En alguna ocasión se me ha pasado por la cabeza cambiar el motor y poner algo con mucha más potencia, por lo tanto por qué no un Golf MK5 GTI (BWA) con motor TFSI de 200 CV. Esos motores TFSI se pueden tunear muy fácilmente; aumentar la potencia, reprogramar la ECU, cambiar inyectores y turbo o actualizar muchas partes del motor, donde el cielo es el límite. Pero no nos volvamos locos, el objetivo es realizar el swap con el motor BWA original de 200 CV, para que el coche pueda circular por España.
+En alguna ocasión se me ha pasado por la cabeza cambiar el motor y poner algo con mucha más potencia, por lo tanto por qué no un Golf MK5 GTI (BWA) con motor TFSI de 200cv. Esos motores TFSI se pueden tunear muy fácilmente; aumentar la potencia, reprogramar la ECU, cambiar inyectores y turbo o actualizar muchas partes del motor, donde el cielo es el límite. Pero no nos volvamos locos, el objetivo es realizar el swap con el motor BWA original de 200cv, para que el coche pueda circular por España.
 
 Todo esto no es rápido ni barato, de hecho es mucho más barato comprar un Golf MK5 GTI de segunda mano. Y en cuanto a tiempo en estos momentos, llevo más de 18 meses y aún no he terminado, pero me lo estoy pasando muy bien.
 
@@ -30,7 +30,7 @@ El plan es sencillo, cambiar el motor y hacerlo legal para circular por las carr
 
 Entrando un poco más en detalle, esto significa:
 
-1. Cambiar el motor actual por un motor Golf MK5 GTI (BWA) de 200 CV.
+1. Cambiar el motor actual por un motor Golf MK5 GTI (BWA) de 200cv.
 2. Cambiar la caja de cambios actual por una caja de cambios manual de 6 velocidades del 02Q.
 3. Mejorar los frenos delanteros, las suspensiones y los ejes.
 4. Realizar una restauración completa de la carrocería, incluido un repintado completo.
@@ -61,6 +61,7 @@ Dicho esto, las reglas básicas para poder homologar cambios en España son:
 
 En mi caso he elegido los siguientes elementos:
 
-1. Motor 2.0L TFSI BWA de 200 CV procedente de un Golf MK5 GTI
+1. Motor 2.0L TFSI BWA de 200cv procedente de un Golf MK5 GTI
 2. Caja de cambios manual 02Q de 6 velocidades procedente de un Golf MK5 GTI.
-3. Discos delanteros de 334x32 mm procedentes de un Golf MK4
+3. Discos delanteros de 334x32mm (procedentes de un Golf MK4 R32) con unas pizas de 6 pistones.
+4. Discos traseros de 310x22mm con las pinzas traseras del Golf MK4 R32.

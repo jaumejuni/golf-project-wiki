@@ -27,9 +27,9 @@ This means that the original Golf MK5 engine Wiring Harness must be modified to 
 
 In that case no fuse boxes from Golf Mk5 were used and the wiring harness contained 3 fuses (in replacement of the Golf MK5 fuse box). That approach allowed for a clean separation between the engine and body electrics. As mentioned before several signals must still be adapted to be able to continue using the original instrument cluster; engine speed, VSS and oil temperature. Other signals as coolant temperature can be connected directly.
 
-<figure><img src="/images/intro-custom-exaust.jpg" class="thumb-img"><figcaption>Custom exhausts.</figcaption></figure>
-
 Some of the Engine Wiring Harnesses sold for this type of swaps remove the support for the V50 (coolant circulation pump), as this pump is only required when the engine is shut and the turbocompressor is still hot. In this swap the V50 pump is retained and properly used to cool down the turbocompressor when the engine is switched off.
+
+<figure><img src="/images/intro-custom-exaust.jpg" class="thumb-img"><figcaption>Custom exhausts.</figcaption></figure>
 
 Another aspect to consider is the exhaust, the long short, a Golf MK5 BWA exhaust must be adapted to a Golf MK3, and these changes must be done in a way that the new exhaust that fits in a Golf MK3 is certified for a Golf MK5 BWA engine. As you can imagine the exhaust is custom made and requires a lot of fabrication.
 

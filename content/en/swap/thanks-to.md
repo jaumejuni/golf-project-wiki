@@ -1,9 +1,9 @@
 ---
 weight: 30
-title: "Special thanks to..."
+title: "Special thanks and contact information"
 ---
 
-# Special thanks to...
+# Special thanks and contact information
 
 It's hard to imagine this project without the support and understanding of my wife, Michaela, as for many, many nights after bedding our kids, I stayed in front of the computer doing research work.
 
@@ -18,3 +18,9 @@ Tallers Marc, +34 937 64 11 62 / tallersmarc15@gmail.com
 ## Sergi Lopez
 
 HR+ Homologaciones, +34 619 80 34 09 / info@rhplus.info
+
+# Contact Information
+
+In case you have further questions my contact details are:
+
+jaumejuni@gmail.com

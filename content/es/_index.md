@@ -26,10 +26,9 @@ Esto significa que se debe modificar el arnés de cables del motor original del 
 
 En ese caso, no se utilizó la caja de fusibles del Golf Mk5 y el arnés de cables contenía 3 fusibles (reemplazando la caja de fusibles del Golf MK5). Ese enfoque permitió una separación clara entre el motor y el sistema eléctrico de la carrocería. Como se mencionó anteriormente, aún se deben adaptar varias señales para poder seguir utilizando el cuadro de instrumentos original; velocidad del motor, VSS y temperatura del aceite. Otras señales, como la temperatura del refrigerante, se pueden conectar directamente.
 
+Algunos de los arneses de cableado del motor que se venden para este tipo de swaps eliminan el soporte para la V50 (bomba de circulación del refrigerante), ya que esta bomba solo es necesaria cuando el motor está apagado y el turbocompresor aún está caliente. En este swap, la bomba V50 se conserva y se utiliza correctamente para enfriar el turbocompresor cuando se apaga el motor.
 
 <figure><img src="/images/intro-custom-exaust.jpg" class="thumb-img"><figcaption>Linea de escape.</figcaption></figure>
-
-Algunos de los arneses de cableado del motor que se venden para este tipo de swaps eliminan el soporte para la V50 (bomba de circulación del refrigerante), ya que esta bomba solo es necesaria cuando el motor está apagado y el turbocompresor aún está caliente. En este swap, la bomba V50 se conserva y se utiliza correctamente para enfriar el turbocompresor cuando se apaga el motor.
 
 Otro aspecto a tener en cuenta es el escape, de forma breve, los escapes de un Golf MK5 BWA deben adaptarse a un Golf MK3, y estos cambios deben realizarse de manera que los nuevos escapes que se adapten a un Golf MK3 estén certificados para un motor Golf MK5 BWA. Como se puede imaginar, el escape se fabrica a medida y requiere mucho trabajo.
 
