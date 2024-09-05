@@ -8,7 +8,7 @@ title: "Swap y restauracion"
 
 En abril de 2022 llegó el momento de empezar a desmontar el motor original del Golf y preparar el coche para el trabajo de carrocería y restauración completa.
 
-<figure><img src="/images/after-paint-10.jpg"><figcaption>Car in the body shop fully painted.</figcaption></figure>
+<figure><img src="/images/after-paint-10.jpg"><figcaption>Aspecto después de pintar el coche</figcaption></figure>
 
 En términos generales el coche estaba en muy buenas condiciones, solo tenía un poco de óxido en la aleta delantera derecha, el resto estaba impecable. Y el taller lo confirmó una vez que se quitaron los paneles para empezar a prepararlos para el repintado.
 
@@ -20,7 +20,7 @@ A finales de junio de 2022 el coche esta de vuelta al taller de Marc (el mecanic
 
 ## Eje delantero y trasero
 
-<figure><img src="/images/front-brakes-toobig-01.jpg"><figcaption>Discos delanteros demasiado grandes.</figcaption></figure>
+<figure><img src="/images/front-brakes-toobig-01.jpg"><figcaption>Discos delanteros demasiado grandes</figcaption></figure>
 
 ### Eje delantero
 

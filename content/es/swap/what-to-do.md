@@ -7,9 +7,9 @@ title: "¿Qué hacer con un coche de más de 25 años?"
 
 ## Al principio
 
-Compré este coche (mi primer coche); un Golf MK3 GTI, en 1996, y siempre le he tenido un cariño especial. He hecho muchos viajes con él y he disfrutado de momentos inolvidables, pero ahora tengo que decidir qué hacer. Pensándolo rápido, hay 2 respuestas posibles:
+Compré este coche (mi primer coche); un Golf MK3 GTI, en 1996, y siempre le he tenido un cariño especial. He hecho muchos viajes con él y he disfrutado de momentos inolvidables, pero ahora tengo que decidir qué hacer. Pensándolo friamente, hay 2 respuestas posibles:
 
-<figure><img src="/images/beginning-03.jpg"><figcaption>Original engine: ADY 2.0L 8V 115hp.</figcaption></figure>
+<figure><img src="/images/beginning-03.jpg"><figcaption>Motor original: ADY 2.0L 8V 115hp.</figcaption></figure>
 
 1. Jubilarlo con todos los honores por los servicios prestados.
 2. Restaurarlo para que luzca como nuevo otra vez.
@@ -26,7 +26,7 @@ Todo esto no es rápido ni barato, de hecho es mucho más barato comprar un Golf
 
 El plan es sencillo, cambiar el motor y hacerlo legal para circular por las carreteras españolas.
 
-<figure><img src="/images/beginning-noplate-01.jpg"><figcaption>Front view of the car before starting.</figcaption></figure>
+<figure><img src="/images/beginning-noplate-01.jpg"><figcaption>Vista frontal antes del swap.</figcaption></figure>
 
 Entrando un poco más en detalle, esto significa:
 
@@ -49,7 +49,7 @@ Desde el principio tuve la suerte de contar con:
 
 Lo primero y más importante es que esto no es una lista exhaustiva ni exacta. La normativa es compleja y puede cambiar. Por ello, como he comentado antes, es imprescindible contar con un ingeniero especializado en coches que te guíe y te lleve a lo largo de todo el proyecto.
 
-<figure><img src="/images/first-attempt-03.jpg"><figcaption>First attempt to fit the engine.</figcaption></figure>
+<figure><img src="/images/first-attempt-03.jpg"><figcaption>Priner intento en poner el motor</figcaption></figure>
 
 Dicho esto, las reglas básicas para poder homologar cambios en España son:
 

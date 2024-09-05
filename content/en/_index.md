@@ -25,9 +25,7 @@ Two different wiring harnesses must work together. From an engine point of view 
 
 This means that the original Golf MK5 engine Wiring Harness must be modified to be able to start the engine in a Golf Mk3. The modifications into the engine wiring harness will depend on the approach followed. 
 
-In that case no fuse boxes from Golf Mk5 were used and the wiring harness contained 3 fuses (in replacement of the Golf MK5 fuse box). That approach allowed for a clean separation between the engine and body electrics. As mentioned before several signals must still be adapted to be able to continue using the original instrument cluster; engine speed and VSS. Other signals as coolant temperature can be connected directly.
-
-This swap retained all input signals into the instrument cluster but oil temperature. The reason for that is that the oil temperature sensor in Golf MK3 and MK4 is a NTC sensor, and in Golf MK5 this is a sensor that sends digital information for oil temperature and pressure, so those sensors are not compatible.
+In that case no fuse boxes from Golf Mk5 were used and the wiring harness contained 3 fuses (in replacement of the Golf MK5 fuse box). That approach allowed for a clean separation between the engine and body electrics. As mentioned before several signals must still be adapted to be able to continue using the original instrument cluster; engine speed, VSS and oil temperature. Other signals as coolant temperature can be connected directly.
 
 <figure><img src="/images/intro-custom-exaust.jpg" class="thumb-img"><figcaption>Custom exhausts.</figcaption></figure>
 
