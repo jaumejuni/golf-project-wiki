@@ -16,7 +16,7 @@ img {
 <figure><img src="/images/intro-engine-placement.jpg" class="thumb-img"><figcaption>Placing the engine.</figcaption></figure>
 <figure><img src="/images/intro-empty-engine-bay.jpg" class="thumb-img"><figcaption>Empty engine bay.</figcaption></figure>
 
-This wiki explains the full project to swap a Golf MK5 GTI engine (engine code BWA) into a Golf MK3 GTI. In addition to that it also explains how to make it road legal (in Spain) and all the challenges to overcome to make it work.
+This website explains the full project to swap a Golf MK5 GTI engine (engine code BWA) into a Golf MK3 GTI. In addition to that it also explains how to make it road legal (in Spain) and all the challenges to overcome to make it work.
 There is plenty of custom fabrication to fit the engine and all the pipes around, but by far the most complex part is the electrics.
 
 Two different wiring harnesses must work together. From an engine point of view a Golf MK5 GTI (BWA) wiring harness must be adapted to work within a Golf MK3; different ABS, speed sensors, etc. In addition the original Golf MK3 instrument cluster is kept, so engine speed, VSS and other signals must be adapted to make sure the original cluster continues displaying the right information.

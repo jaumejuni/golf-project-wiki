@@ -16,7 +16,7 @@ img {
 <figure><img src="/images/intro-engine-placement.jpg" class="thumb-img"><figcaption>Colocando el motor.</figcaption></figure>
 <figure><img src="/images/intro-empty-engine-bay.jpg" class="thumb-img"><figcaption>Vista sin motor.</figcaption></figure>
 
-Este website explica el proyecto para hacer un swap de motor de un Golf MK5 GTI (código de motor BWA) a un Golf MK3 GTI. Además, también explica cómo hacerlo de forma legal para circular (en España) y todos los problemas que hay que superar para que funcione todo correctamente. Hay mucha fabricación a medida para adaptar el motor y todos los conductos, pero la parte más compleja es, con diferencia, la parte eléctrica.
+Esta web explica el proyecto para hacer un swap de motor de un Golf MK5 GTI (código de motor BWA) a un Golf MK3 GTI. Además, también explica cómo hacerlo de forma legal para circular (en España) y todos los problemas que hay que superar para que funcione todo correctamente. Hay mucha fabricación a medida para adaptar el motor y todos los conductos, pero la parte más compleja es, con diferencia, la parte eléctrica.
 
 Deben trabajar juntos dos arneses de cables diferentes. Desde el punto de vista del motor, se debe adaptar un arnés de cables de Golf MK5 GTI (BWA) para que funcione en un Golf MK3; diferentes ABS, sensores de velocidad, etc. Además, se mantiene el cuadro de instrumentos original del Golf MK3, por lo que se deben adaptar la velocidad del motor (revoluciones), el VSS (odometro) y otras señales para asegurarse que el cuadro de instrumentos sigue mostrando la información correcta.
 
