@@ -20,7 +20,6 @@ path = 'github.com/hugomods/bootstrap'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 enableRobotsTXT = false
-googleAnalytics = "G-JDETYR320R"
 
 [languages]
   [languages.en]
@@ -50,3 +49,6 @@ googleAnalytics = "G-JDETYR320R"
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to "*" to render all sections to menu
   BookSection = 'swap'
+
+[services.googleAnalytics]
+id = 'G-JDETYR320R'
