@@ -1,4 +1,4 @@
-baseURL = 'https://wiki.mh-designstudio.net/'
+baseURL = 'https://tfsiswap.mh-designstudio.net/'
 languageCode = 'en-US'
 theme = 'hugo-book'
 

@@ -9,16 +9,16 @@ title: "Arrancando el motor"
 
 La ECU que se utilizará es la del Golf MK5 GTI (BWA); 1K0 907 115 Q. Obviamente reemplaza la ECU original del Golf MK3, que ya no se utiliza. Sin embargo, esto presenta varios problemas:
 
-1. **qué hacer con todos los DTC en la ECU porque faltan sensores/actuadores**. En ese caso, tuvimos que analizar todos los DTC y determinar si eran genuinos o si se podían eliminar porque el sensor/actuador ya no existía. Siempre que un DTC era genuino, tuvimos que investigar el problema hasta resolverlo. Los DTC relacionados con  un sensor/acttuador inxistente, se borraron.
+1. **qué hacer con todos los DTC en la ECU porque faltan sensores/actuadores**. En ese caso, tuvimos que analizar todos los DTC y determinar si eran genuinos o si se podían eliminar porque el sensor/actuador ya no existía. Siempre que un DTC era genuino, tuvimos que investigar el problema hasta resolverlo. Los DTC relacionados con  un sensor/actuador inxistente, se borraron.
 2. **cómo evitar el inmovilizador, para que se pueda arrancar el motor**. Aquí la respuesta es simple, tuvimos que desactivar el inmovilizador con un programa especial (eeprom) para desactivar el inmovilizador en las ECU MED9.1.
 
 Como la ECU utilizada se obtuvo de un desguace, se compró una copia nueva y limpia de la memoria flash (no se sabe si el propietario anterior de la ECU hizo modificaciones en la memoria flash).
 
-Y ahora ya están todas las piezas necesarias; una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se pueden modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todas las sumas de comprobación se calcularon correctamente.
+Y ahora ya están todas las piezas necesarias; una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se pueden modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todas los CRC de comprobación se calcularon correctamente.
 
 ## Exprimiendo el motor
 
-Como parte del swap, se pueden cambiar algunos de los componentes originales del motor, en resumen; los inyectores de combustible, el sensor de presión de combustible, el sensor MAP y la válvula de limitación de presión de combustible. La siguiente tabla muestra los números de referencia para diferentes códigos de motor.
+Como parte del swap, se cambiaron algunos de los componentes originales del motor, en resumen; los inyectores de combustible, el sensor de presión de combustible, el sensor MAP y la válvula de limitación de presión de combustible. La siguiente tabla muestra los números de referencia para diferentes códigos de motor.
 
 | Descripción                                     | BWA (200 hp)  | BYD (230 hp)  |
 |-------------------------------------------------|---------------|---------------|
@@ -32,7 +32,7 @@ Como parte del swap, se pueden cambiar algunos de los componentes originales del
 
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
-El código de motor original es un motor BWA, sin embargo, si las piezas de la tabla anterior se actualizan a las referencias de la columna BYD, el motor se convierte en un motor BYD. hay que tener en cuenta que las referencias de la ECU para BWA y BYD son diferentes, sin embargo, después de algunas investigaciones, el hardware de las ECU es exactamente el mismo y la única diferencia es el software. Entonces, la pregunta es cómo cargar en una ECU BWA el software para una ECU BYD. La respuesta es simple: obtener una EEPROM y falsh para BYD y cargarla en la ECU 1K0 907 115 Q. Más detalles en el siguiente [enlace](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
+El código de motor original es un motor BWA, sin embargo, si los componentes de la tabla anterior se actualizan a las referencias de la columna BYD, el motor se convierte en un motor BYD. Hay que tener en cuenta que las referencias de la ECU para BWA y BYD son diferentes, sin embargo, después de algunas investigaciones, el hardware de las ECU es exactamente el mismo y la única diferencia es el software. Entonces, la pregunta es cómo cargar en una ECU BWA el software para una ECU BYD. La respuesta es simple: obtener una EEPROM y falsh para BYD y cargarla en la ECU 1K0 907 115 Q. Más detalles en el siguiente [enlace](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
 
 ## Arranque del motor
 
