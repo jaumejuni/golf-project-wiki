@@ -3,13 +3,6 @@ title: Introduccion
 type: docs
 menus: main
 ---
-<style>
-img {
-    width: 100px;
-    float: right;
-    /* margin: 25px 0px 25px 25px; */
-}
-</style>
 
 # Swap de un motor de un Golf MK5 GTI TFSI en un Golf MK3
 

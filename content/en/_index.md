@@ -3,13 +3,6 @@ title: Introduction
 type: docs
 menus: main
 ---
-<style>
-img {
-    width: 100px;
-    float: right;
-    /* margin: 25px 0px 25px 25px; */
-}
-</style>
 
 # Swap a Golf MK5 GTI TFSI engine into a Golf MK3
 
@@ -34,5 +27,4 @@ Some of the Engine Wiring Harnesses sold for this type of swaps remove the suppo
 Another aspect to consider is the exhaust, the long short, a Golf MK5 BWA exhaust must be adapted to a Golf MK3, and these changes must be done in a way that the new exhaust that fits in a Golf MK3 is certified for a Golf MK5 BWA engine. As you can imagine the exhaust is custom made and requires a lot of fabrication.
 
 The last but not the least is the certification process. As it will be explained all those changes must be made road legal; so they have to be certified by an engineer, verified by a certification body and finally approved in a MOT like inspection.
-
 
