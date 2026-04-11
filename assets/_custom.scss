@@ -25,3 +25,50 @@
   width: 200px;
   float: right;
 }
+
+/* Inline flow figures: place the figure where it is declared and wrap following text around it. */
+.book-page .book-article figure.flow-figure {
+  display: block;
+  max-width: 100%;
+  padding: 0;
+  margin: 0.5rem 0 1rem;
+}
+
+.book-page .book-article figure.flow-figure.left {
+  float: left;
+  margin-right: 1rem;
+}
+
+.book-page .book-article figure.flow-figure.right {
+  float: right;
+  margin-left: 1rem;
+}
+
+.book-page .book-article figure.flow-figure.stack.right {
+  clear: right;
+}
+
+.book-page .book-article figure.flow-figure.stack.left {
+  clear: left;
+}
+
+.book-page .book-article figure.flow-figure.same-width {
+  width: 200px;
+}
+
+.book-page .book-article figure.flow-figure.same-width img,
+.book-page .book-article figure.flow-figure.same-width video {
+  width: 100%;
+}
+
+/* Prevent global media float rules from forcing figure contents to the right. */
+.book-page .book-article figure.flow-figure img,
+.book-page .book-article figure.flow-figure video {
+  float: none;
+  display: block;
+}
+
+/* Optional helper to stop wrapping after floated figures. */
+.book-page .book-article .clear-flow {
+  clear: both;
+}
