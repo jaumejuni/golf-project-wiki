@@ -1,0 +1,9 @@
+{{- /*
+  Override of the theme's icon partial. Publishes icons under "book-icons/"
+  instead of "icons/", because some Apache hosts reserve /icons/ as a
+  built-in Alias (mod_autoindex's default icon set), which silently shadows
+  a site's own icons/ folder and 404s every file in it.
+*/ -}}
+{{- $orig := resources.GetMatch (printf "icons/%s.*" .) -}}
+{{- $icon := resources.Copy (printf "book-icons/%s%s" . (path.Ext $orig.Name)) $orig -}}
+{{- return $icon.RelPermalink -}}

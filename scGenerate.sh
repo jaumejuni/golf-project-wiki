@@ -10,6 +10,7 @@ on_error() {
 
 trap 'on_error $? $LINENO' ERR
 
-rm -rf ./public
-hugo --minify
-echo "Bye."
+command -v hugo >/dev/null || { echo "Error: hugo not found on PATH" >&2; exit 1; }
+
+hugo --minify --cleanDestinationDir
+echo "Done. Output in $(pwd)/public"

@@ -28,11 +28,10 @@ As part of the swap some of the components were upgraded, the long short; fuel i
 | MAP Sensor                 | 038 906 051 D | 038 906 051 C |
 | Fuel Pressure Relief Valve | 06D 130 757 C | 06D 130 757 C |
 | Fuel Pump                  | 06F 127 025 K | 06F 127 025 K |
-| ECU                        | 1K0 907 115 Q | 1K0 907 115 T |
 
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
-The original engine code is a BWA engine, however if the parts in the table above are upgraded to the references under BYD column, the engine becomes a BYD engine. Note the ECU references for BWA and BYD are different, however after some investigation, the hardware for the ECUs are exactly the same, and the only difference is the software, So now the question is how to upload into a BWA ECU the software for a BYD ECU. The answer is somehow simple; upload a fresh BYD eeprom and flash into the 1K0 907 115 Q ECU. More details can be found [here](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
+The original engine code is a BWA engine; upgrading the parts in the table above to the references under the BYD column brings the hardware closer to a BYD engine, but it does not turn it into one. The tempting shortcut is to keep the BWA ECU hardware and simply flash it with a BYD eeprom and flash, since both ECUs share the same hardware and only differ in software. However this does not work: the BYD uses a slightly different camshaft, so the BYD software's timing maps do not match our camshaft and the timing would be off. There is no shortcut here; the ECU must stay a BWA one, and the maps affected by the upgraded parts (turbo, injectors, MAP sensor) must be reprogrammed instead. More details can be found [here](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
 
 ## Engine start
 

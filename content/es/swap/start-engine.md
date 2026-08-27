@@ -28,11 +28,10 @@ Como parte del swap, se cambiaron algunos de los componentes originales del moto
 | Sensor MAP                                      | 038 906 051 D | 038 906 051 C |
 | Válvula de limitación de presión de combustible | 06D 130 757 C | 06D 130 757 C |
 | Bomba de combustible                            | 06F 127 025 K | 06F 127 025 K |
-| ECU                                             | 1K0 907 115 Q | 1K0 907 115 T |
 
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
-El código de motor original es un motor BWA, sin embargo, si los componentes de la tabla anterior se actualizan a las referencias de la columna BYD, el motor se convierte en un motor BYD. Hay que tener en cuenta que las referencias de la ECU para BWA y BYD son diferentes, sin embargo, después de algunas investigaciones, el hardware de las ECU es exactamente el mismo y la única diferencia es el software. Entonces, la pregunta es cómo cargar en una ECU BWA el software para una ECU BYD. La respuesta es simple: obtener una EEPROM y falsh para BYD y cargarla en la ECU 1K0 907 115 Q. Más detalles en el siguiente [enlace](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
+El código de motor original es un motor BWA; actualizar los componentes de la tabla anterior a las referencias de la columna BYD acerca el hardware al de un motor BYD, pero no lo convierte en uno. La solución tentadora sería mantener el hardware de la ECU BWA y simplemente cargarle la eeprom y la flash de una BYD, ya que ambas ECU comparten el mismo hardware y solo se diferencian en el software. Sin embargo, esto no funciona: la BYD utiliza un árbol de levas ligeramente distinto, por lo que los mapas de tiempos del software de la BYD no coinciden con nuestro árbol de levas y la sincronización quedaría mal. Aquí no hay atajo posible: la ECU debe seguir siendo una BWA, y hay que reprogramar los mapas afectados por los componentes actualizados (turbo, inyectores, sensor MAP). Más detalles en el siguiente [enlace](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
 
 ## Arranque del motor
 

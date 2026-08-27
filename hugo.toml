@@ -1,6 +1,7 @@
 baseURL = 'https://tfsiswap.magnafacto.com/'
-languageCode = 'en-US'
+locale = 'en-US'
 theme = 'hugo-book'
+ignoreFiles = ['\.DS_Store$']
 
 [markup]
   [markup.goldmark]
@@ -17,13 +18,13 @@ enableRobotsTXT = false
 [languages]
   [languages.en]
     contentDir = 'content/en'
-    title = 'Golf MK3 GTI TFSI Swap'    
-    languageName = 'English'
+    title = 'Golf MK3 GTI TFSI Swap'
+    label = 'English'
     weight = 10
 
   [languages.es]
     contentDir = 'content/es'
-    languageName = 'Español'
+    label = 'Español'
     title = 'Swap TFSI (BWA) en un Golf MK3'
     weight = 20
     [languages.es.params]            
