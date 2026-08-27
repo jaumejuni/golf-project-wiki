@@ -14,7 +14,7 @@ The ECU to be used is the Golf MK5 GTI (BWA) one; 1K0 907 115Q. Obviously it rep
 
 Because the ECU used was sourced from a scrapyard, a fresh and clean copy of the flash was bought (it is not known whether the previous owner of the ECU made modifications in the flash).
 
-And now all pieces are in place: an ECU, an eeprom file read from the ECU and modified so the immobilizer is disabled and a flash with a known state that can be modified (DTCs deleted). Obviously for that special software to be able to read and write the eeprom and flash files from and to the ECU was used. For that purpose Trasdata software from DimSport was used, with the additional bonus that all checksums were properly calculated.
+And now all the pieces are in place: an ECU, an EEPROM file read from the ECU and modified to disable the immobilizer, and a flash file with a known state that can be modified (for example, to delete DTCs). Obviously, special software was required to read and write both the EEPROM and flash files from and to the ECU. For this purpose, Trasdata software from DimSport was used, with the added benefit that all checksums were properly calculated.
 
 ## Squeezing the Engine
 
@@ -31,7 +31,7 @@ As part of the swap some of the components were upgraded, long story short: fuel
 
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
-The original engine code is a BWA engine; upgrading the parts in the table above to the references under the BYD column brings the hardware closer to a BYD engine, but it does not turn it into one. The tempting shortcut is to keep the BWA ECU hardware and simply flash it with a BYD eeprom and flash, since both ECUs share the same hardware and only differ in software. However this does not work: the BYD uses a slightly different camshaft, so the BYD software's timing maps do not match our camshaft and the timing would be off. There is no shortcut here; the ECU must stay a BWA one, and the maps affected by the upgraded parts (turbo, injectors, MAP sensor) must be reprogrammed instead. More details can be found [here](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
+The original engine code is a BWA engine; upgrading the parts in the table above to the references under the BYD column brings the hardware closer to a BYD engine, but it does not turn it into one. Since the BWA and BYD use different ECUs, simply replacing the BWA ECU with a BYD one is not an option. However, the BYD EEPROM and flash files can be uploaded to the BWA ECU. This does not solve the problem either: the BYD uses a different camshaft, and its timing maps are calibrated accordingly. Running the BYD software with the BWA camshaft would therefore result in incorrect timing. The ECU must remain configured as a BWA, with the relevant maps recalibrated for the upgraded hardware (turbo, injectors and MAP sensor). More details can be found [here](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
 
 ## Engine start
 

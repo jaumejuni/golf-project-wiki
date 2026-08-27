@@ -14,7 +14,7 @@ La ECU que se utilizará es la del Golf MK5 GTI (BWA); 1K0 907 115 Q. Obviamente
 
 Como la ECU utilizada se obtuvo de un desguace, se compró una copia nueva y limpia de la memoria flash (no se sabe si el propietario anterior de la ECU hizo modificaciones en la memoria flash).
 
-Y ahora ya están todas las piezas necesarias: una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se pueden modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todos los CRC de comprobación se calcularon correctamente.
+Y ahora ya están todas las piezas en su sitio: una ECU, un archivo EEPROM leído de la ECU y modificado para desactivar el inmovilizador, y un archivo flash con un estado conocido que se puede modificar (por ejemplo, para eliminar DTCs). Obviamente, para todo esto también se necesita un software específico que permita leer y escribir tanto la EEPROM como la memoria flash de la ECU. Para este propósito se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todos los CRC de comprobación se calcularon correctamente.
 
 ## Exprimiendo el motor
 
@@ -31,7 +31,7 @@ Como parte del swap, se cambiaron algunos de los componentes originales del moto
 
 <figure><video controls><source src="/images/start-engine-01.webm" type="video/webm"></video></figure>
 
-El código de motor original es un motor BWA; actualizar los componentes de la tabla anterior a las referencias de la columna BYD acerca el hardware al de un motor BYD, pero no lo convierte en uno. La solución tentadora sería mantener el hardware de la ECU BWA y simplemente cargarle la eeprom y la flash de una BYD, ya que ambas ECU comparten el mismo hardware y solo se diferencian en el software. Sin embargo, esto no funciona: la BYD utiliza un árbol de levas ligeramente distinto, por lo que los mapas de tiempos del software de la BYD no coinciden con nuestro árbol de levas y la sincronización quedaría mal. Aquí no hay atajo posible: la ECU debe seguir siendo una BWA, y hay que reprogramar los mapas afectados por los componentes actualizados (turbo, inyectores, sensor MAP). Más detalles en el siguiente [enlace](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
+El código de motor original es un motor BWA; actualizar los componentes de la tabla anterior a las referencias de la columna BYD acerca el hardware al de un motor BYD, pero no lo convierte en uno. Dado que los BWA y BYD utilizan ECUs diferentes, sustituir simplemente la ECU del BWA por una del BYD no es una opción. Sin embargo, los archivos EEPROM y flash del BYD sí se pueden cargar en la ECU del BWA. Esto tampoco resuelve el problema: el BYD utiliza un árbol de levas diferente y sus mapas de distribución están calibrados en consecuencia. Utilizar el software del BYD con el árbol de levas del BWA daría como resultado una distribución incorrecta. Por tanto, la ECU debe mantenerse configurada como una BWA y recalibrar los mapas correspondientes para adaptarlos al hardware actualizado (turbo, inyectores y sensor MAP). Más detalles en el siguiente [enlace](https://www.vwvortex.com/threads/software-advise-needed-for-bwa-engine-with-k04-turbo-s3-injectors.7912113).
 
 ## Arranque del motor
 
