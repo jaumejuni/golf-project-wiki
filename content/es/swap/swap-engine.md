@@ -1,6 +1,6 @@
 ---
 weight: 20
-title: "Swap y restauracion"
+title: "Swap y restauración"
 ---
 
 # Swap de motor y restauración
@@ -12,11 +12,11 @@ En abril de 2022 llegó el momento de empezar a desmontar el motor original del 
 
 En términos generales el coche estaba en muy buenas condiciones, solo tenía un poco de óxido en la aleta delantera derecha, el resto estaba impecable. Y el taller lo confirmó una vez que se quitaron los paneles para empezar a prepararlos para el repintado.
 
-En este caso, y siguiendo los consejos del taller, se realizó una restauración completa de la carrocería incluyendo; exterior, vano motor, interior de las puertas, pasos de rueda y molduras de plástico con un muy buen resultado.
+En este caso, y siguiendo los consejos del taller, se realizó una restauración completa de la carrocería incluyendo: exterior, vano motor, interior de las puertas, pasos de rueda y molduras de plástico con un muy buen resultado.
 
 El resultado final son 2 meses de trabajo por parte del taller, donde se cambiaron las aletas laterales delanteras izquierda y derecha ya que las antiguas estaban oxidadas (bastante común en este tipo de Golf) y algunos embellecedores de plástico laterales ya que estaban rotos.
 
-A finales de junio de 2022 el coche esta de vuelta al taller de Marc (el mecanico), y toca empezar a trastear con la parte mecánica.
+A finales de junio de 2022 el coche está de vuelta al taller de Marc (el mecánico), y toca empezar a trastear con la parte mecánica.
 
 ## Eje delantero y trasero
 
@@ -26,13 +26,13 @@ A finales de junio de 2022 el coche esta de vuelta al taller de Marc (el mecanic
 
 Como ya he mencionado anteriormente, para poder hacer legal el swap de motor y circular por carretera, el tamaño de los discos delanteros y el número de pistones de la pinza deben ser al menos iguales a los del vehículo donante.
 
-En el caso del Golf MK5 GTI, los discos son de 312x25mm con pinza de un pistón. Tras incontables horas navegando por internet para encontrar el BBK (Big Break Kit) perfecto, es decir, bueno, bonito y barato, me decidí por un kit CEIKA; 345x32mm y pinzas de 6 pistones, ¡¡un monstruo!!. Pero me equivoqué dos veces.
+En el caso del Golf MK5 GTI, los discos son de 312x25mm con pinza de un pistón. Tras incontables horas navegando por internet para encontrar el BBK (Big Break Kit) perfecto, es decir, bueno, bonito y barato, me decidí por un kit CEIKA: 345x32mm y pinzas de 6 pistones, ¡¡un monstruo!! Pero me equivoqué dos veces.
 
 Desde el principio estuve dudando si poner ruedas de 17" o 18”, tras pensarlo mucho me decidí por ruedas BBS de 17". En el momento de comprar el BBK, aún no había elegido la medida de las ruedas, así que compré un tamaño de disco lo más grande posible y que se pudiera montar en llantas de 17” o 18”. Y elegí 345mm, pero estos discos entran muy justos en una llanta de 17”. De hecho, debido al perfil de la llanta de 17", esos discos rozaban contra la llanta.
 
 En definitiva, los discos eran demasiado grandes. Así que pensé en utilizar los discos de 334x32mm de un Golf MK4 R32 con las pinzas BBK de CEIKA. Pero para esta configuración tuve que diseñar unos adaptadores personalizados que fabricó Epytec.
 
-Mi segundo gran error fue comprar el BBK de CEIKA. Su servicio de atención al cliente es pésimo, y desde luego no recomendaría CEIKA a nadie. Hoy en día, si tuviera que comprar un BBK para un Golf MK3 lo haría a través de Epytec; discos Golf MK4 R32 (334x32mm) y pinzas ZR17 de Porsche Cayenne o VW Tuareg.
+Mi segundo gran error fue comprar el BBK de CEIKA. Su servicio de atención al cliente es pésimo, y desde luego no recomendaría CEIKA a nadie. Hoy en día, si tuviera que comprar un BBK para un Golf MK3 lo haría a través de Epytec: discos Golf MK4 R32 (334x32mm) y pinzas ZR17 de Porsche Cayenne o VW Tuareg.
 
 <figure><img src="/images/rear-brakes-02.jpg"><figcaption>Frenos traseros.</figcaption></figure>
 
@@ -56,7 +56,7 @@ Como extra, también se ha añadido una barra estabilizadora al eje trasero 😀
 
 ## Reconstrucción de motor
 
-<figure><img src="/images/engine-01.jpeg"><figcaption>Motor antes de la reconstruccion.</figcaption></figure>
+<figure><img src="/images/engine-01.jpeg"><figcaption>Motor antes de la reconstrucción.</figcaption></figure>
 
 ### ETKA y los distintos vehículos utilizados para el swap
 
@@ -68,7 +68,7 @@ Cualquier swap implica encontrar y montar piezas de más de un vehículo. En est
 + **Golf MK5 GTI**. Este es el vehículo donante. La mayoría de las piezas de motor pertenecen a este vehículo.
 + **Golf MK4 R32**. Las referencias a este vehículo son los discos de freno delanteros y las pinzas de freno traseras. Ambos necesitan adaptadores hechos a medida para poder montarlos en el Golf MK3.
 
-<figure><img src="/images/before-cylinderhead-01.jpg"><figcaption>Culata ante de limpiarla.</figcaption></figure>
+<figure><img src="/images/before-cylinderhead-01.jpg"><figcaption>Culata antes de limpiarla.</figcaption></figure>
 
 ### Compra y reconstrucción del motor
 
@@ -76,7 +76,7 @@ En cuanto al motor y la caja de cambios, los conseguí en un desguace en septiem
 
 Como no sabíamos el estado interno del motor y además las válvulas y la parte interna de los cilindros tenían carbonilla (un problema muy común en los motores TFSI), decidimos que lo mejor era revisarlo a fondo.
 
-Marc (el mecanico) lo desmontó y volvió a montar con todas las garantías y limpió por completo todas las partes internas, dejando el motor como nuevo.
+Marc (el mecánico) lo desmontó y volvió a montar con todas las garantías y limpió por completo todas las partes internas, dejando el motor como nuevo.
 
 Otra cosa que se hizo fue actualizar el embrague, y se le montó un Kit de embrague + volante de inercia DKM Stage 2 Uprated para VW Golf V 2.0 GTI.
 
@@ -92,9 +92,9 @@ Con el kit, y la carrocería del coche restaurada y repintada, Marc y yo nos pus
 
 #### Primer intento
 
-En diciembre de 2022 hicimos el primer intento de montar el motor, pero estaba inclinado hacia la derecha y desnivelado (y tuvimos que sujetarlo con una cadena y otro soporte debajo). Los puntos de anclaje del kit son tres; uno en el medio en la parte delantera del motor y dos a cada lado en la parte trasera del motor (¡ojo!... no son los mismos anclajes que en el Golf MK5 GTI).
+En diciembre de 2022 hicimos el primer intento de montar el motor, pero estaba inclinado hacia la derecha y desnivelado (y tuvimos que sujetarlo con una cadena y otro soporte debajo). Los puntos de anclaje del kit son tres: uno en el medio en la parte delantera del motor y dos a cada lado en la parte trasera del motor (¡ojo!... no son los mismos anclajes que en el Golf MK5 GTI).
 
-Y había truco. Desde [Fabless Manufacturing](https://www.fablessmanufacturing.com/) nos aclararon que había que mover las copas del subchasis. ¿Cómo? Muy fácil, como indica este [video](https://www.youtube.com/watch?v=VxRCBlZ3ugI). De hecho, recientemente han sacado la segunda parte del kit que es un subchasis tubular donde se colocan las copas correctamente para montar el motor. No obstante, todo tiene un precio y no es precisamente barato, pero por lo demás mi experiencia con [Fabless Manufacturing](https://www.fablessmanufacturing.com/) ha sido genial y siempre han respondido bien y rápido. Además la calidad de sus productos es inmejorable.
+Y había truco. Desde [Fabless Manufacturing](https://www.fablessmanufacturing.com/) nos aclararon que había que mover las copas del subchasis. ¿Cómo? Muy fácil, como indica este [vídeo](https://www.youtube.com/watch?v=VxRCBlZ3ugI). De hecho, recientemente han sacado la segunda parte del kit que es un subchasis tubular donde se colocan las copas correctamente para montar el motor. No obstante, todo tiene un precio y no es precisamente barato, pero por lo demás mi experiencia con [Fabless Manufacturing](https://www.fablessmanufacturing.com/) ha sido genial y siempre han respondido bien y rápido. Además la calidad de sus productos es inmejorable.
 
 <figure><img src="/images/second-attempt-05.jpg"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
 

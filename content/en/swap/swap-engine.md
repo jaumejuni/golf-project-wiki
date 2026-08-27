@@ -10,28 +10,28 @@ In April 2022, the time came to start disassembling the original Golf engine and
 
 <figure><img src="/images/after-paint-10.jpg"><figcaption>Car in the body shop fully painted.</figcaption></figure>
 
-In general terms the car was in very good condition, it only had a little rust on the right front wing, the rest was impeccable. And the body shop confirmed it once the panels were removed to start preparing them for respray.
+In general terms the car was in very good condition; it only had a little rust on the right front wing; the rest was impeccable. And the body shop confirmed it once the panels were removed to start preparing them for respray.
 
-In this case, and following the advice of the body shop, a full restoration of the body including; exterior, engine bay, interior of the doors, wheel arches and plastic moldings was done with a very good results.
+In this case, and following the advice of the body shop, a full restoration of the body including: exterior, engine bay, interior of the doors, wheel arches and plastic moldings was done with very good results.
 
-The final result is 2 months of work by the body shop and the left and right front side wings changed as the old ones were rusty (quite common in this type of Golf). In addition, some lateral plastic trimming was also changed as it was broken.
+The final result is 2 months of work by the body shop and the left and right front side wings were changed as the old ones were rusty (quite common in this type of Golf). In addition, some lateral plastic trimming was also changed as it was broken.
 
-At the end of June 2022 the car is back in the workshop with Marc, and it's time to start messing with the mechanical parts.
+At the end of June 2022 the car was back in the workshop with Marc, and it's time to start messing with the mechanical parts.
 
 ## Front and rear axles
 <figure><img src="/images/front-brakes-toobig-01.jpg"><figcaption>Front brake discs too big.</figcaption></figure>
 
 ### Front axle
 
-As previously mentioned, in order to be able to make the engine swap road legal, the size of the front discs and the number of caliper pistons must be at least the same as the donor vehicle.
+As previously mentioned, in order to be able to make the engine swap road legal, the size of the front discs and the number of caliper pistons must be at least the same as those of the donor vehicle.
 
-In the case of the Golf MK5 GTI, the discs are 312x25mm with a single-piston caliper. After countless hours browsing internet to find the perfect BBK (Big Break Kit), that is, good, nice and cheap, I decided to go for a CEIKA kit; 345x32mm and 6-piston calipers, a monster!!. But I was wrong twice.
+In the case of the Golf MK5 GTI, the discs are 312x25mm with a single-piston caliper. After countless hours browsing the internet to find the perfect BBK (Big Brake Kit), that is, good, nice and cheap, I decided to go for a CEIKA kit; 345x32mm and 6-piston calipers, a monster!!. But I was wrong twice.
 
-From the beginning I was wondering if I had 17" or 18" wheels, after thinking about it a lot I decided on 17" BBS wheels. At the time of buying the BBK, I had not yet chosen the size of the wheels, so I bought a disc size that was as big as possible and could be mounted on 17" or 18" rims. And I chose 345mm, but these discs fit very tightly on a 17" rim. In fact because of the profile of the 17" rim those discs were rubbing against the rim.
+From the beginning I was wondering if I had 17" or 18" wheels. After thinking about it a lot I decided on 17" BBS wheels. At the time of buying the BBK, I had not yet chosen the size of the wheels, so I bought a disc size that was as big as possible and could be mounted on 17" or 18" rims. And I chose 345mm, but these discs fit very tightly on a 17" rim. In fact because of the profile of the 17" rim those discs were rubbing against the rim.
 
 In short, the disks were too big. Therefore, I thought of using the 334x32mm discs from a Golf MK4 R32 with the CEIKA BBK calipers. But for this setup I had to design some custom adapters that Epytec made.
 
-My second big mistake was buying the BBK from CEIKA. Their customer service is terrible, and I certainly would not recommend CEIKA to anyone. Today, if I had to buy a BBK for a Golf MK3 I would do it through Epytec; Golf MK4 R32 discs (334x32mm) and ZR17 calipers from Porsche Cayenne or VW Tuareg.
+My second big mistake was buying the BBK from CEIKA. Their customer service is terrible, and I certainly would not recommend CEIKA to anyone. Today, if I had to buy a BBK for a Golf MK3, I would do it through Epytec; Golf MK4 R32 discs (334x32mm) and ZR17 calipers from Porsche Cayenne or VW Tuareg.
 
 <figure><img src="/images/rear-brakes-02.jpg"><figcaption>Rear breaks with custom adapter.</figcaption></figure>
 
@@ -59,7 +59,7 @@ As a bonus, a sway bar has also been added to the rear axle 😀.
 
 ### ETKA and the various vehicles used for the swap
 
-Before starting this project, September 2021, I knew very little about mechanics, now I can say that I still don't know about mechanics, but I have become, after many hours, an expert in searching in [ETKA](https://volkswagen.7zap.com/en/rdw/) of the VAG group the pieces that are needed 😇.
+Before starting this project, September 2021, I knew very little about mechanics, now I can say that I still don't know about mechanics, but I have become, after many hours, an expert in searching for the pieces that are needed in [ETKA](https://volkswagen.7zap.com/en/rdw/) of the VAG group 😇.
 
 Any swap involves finding and assembling parts from more than one vehicle. In this specific case, parts of the following vehicles have been searched for and purchased:
 
@@ -72,9 +72,9 @@ Any swap involves finding and assembling parts from more than one vehicle. In th
 
 As for the engine and gearbox, I got these from a scrapyard in September 2021. Be careful when you buy the engine that it is a BWA and not a BWE. Both engine blocks are identical, but one is mounted transversely and the other longitudinally. A BWE can be mounted transversely (certain parts have to be changed), but the problem is that it can never be made road legal as it is not mounted longitudinally.
 
-As we did not know the internal state of the engine and also the valves and the internal part of the cylinders had carbon (a very common problem in TFSI engines), we decided that it was best to check it thoroughly.
+As we did not know the internal state of the engine, and the valves and the internal part of the cylinders also had carbon (a very common problem in TFSI engines), we decided that it was best to check it thoroughly.
 
-Marc (the mechanic) disassembled and reassemble it with all the guarantees and completely clean all internals as if the engine were knew.
+Marc (the mechanic) disassembled and reassembled it with all the guarantees and completely cleaned all internals as if the engine were new.
 
 Another thing that was done was to upgrade the clutch, and it was fitted with a DKM Stage 2 Uprated Clutch + Flywheel Kit for VW Golf V 2.0 GTI.
 
@@ -84,15 +84,15 @@ Another thing that was done was to upgrade the clutch, and it was fitted with a 
 
 At this point it is key to remember that the chassis of the receiving vehicle cannot be modified in any way, so after many hours of searching the internet I found [Fabless Manufacturing](https://www.fablessmanufacturing.com/).
 
-At that time (this was in November 2021) they did not have the EA113 TFSI engine mounting kit in their catalogue, so I tried my luck and contacted them. My surprise was that they told me that they were developing it and that they could sell me one 😅
+At that time (this was in November 2021) they did not have the EA113 TFSI engine mounting kit in their catalogue, so I tried my luck and contacted them. My surprise was that they told me that they were developing it and that they could sell me one 😅.
 
-With the kit, and the body of the car restored and resprayed, Marc and I got down to put the engine. We needed 2 attempts and a few more emails to Fabless to clarify the assembly instructions.
+With the kit, and the body of the car restored and resprayed, Marc and I got down to putting the engine. We needed 2 attempts and a few more emails to Fabless to clarify the assembly instructions.
 
 #### First attempt
 
-In December 2022 we made the first attempt to fit the engine, but it was tilted to the right and uneven (and we had to support it with a chain and another support underneath). The kit's anchor points are three; one in the middle at the front of the engine and two on each side at the rear of the engine (beware!...they are not the same mounts as on the Golf MK5 GTI).
+In December 2022 we made the first attempt to fit the engine, but it was tilted to the right and uneven (and we had to support it with a chain and another support underneath). The kit's anchor points are three: one in the middle at the front of the engine and two on each side at the rear of the engine (beware!...they are not the same mounts as on the Golf MK5 GTI).
 
-And there was a trick. From [Fabless Manufacturing](https://www.fablessmanufacturing.com/) they clarified that the subframe cups had to be moved. How? Very easy, as this [video](https://www.youtube.com/watch?v=VxRCBlZ3ugI) indicates. In fact, they have recently released the second part of the kit which is a tubular subframe where the cups are properly position to fit the engine. However, everything has a price and it's not exactly cheap, but other than that my experience with [Fabless Manufacturing](https://www.fablessmanufacturing.com/) has been great and they have always responded well and quickly. In addition, the quality of their products is unbeatable.
+And there was a trick. From [Fabless Manufacturing](https://www.fablessmanufacturing.com/) they clarified that the subframe cups had to be moved. How? Very easy, as this [video](https://www.youtube.com/watch?v=VxRCBlZ3ugI) indicates. In fact, they have recently released the second part of the kit which is a tubular subframe where the cups are properly positioned to fit the engine. However, everything has a price and it's not exactly cheap, but other than that my experience with [Fabless Manufacturing](https://www.fablessmanufacturing.com/) has been great and they have always responded well and quickly. In addition, the quality of their products is unbeatable.
 
 <figure><img src="/images/second-attempt-05.jpg"><figcaption>Second attempt to put the engine.</figcaption></figure>
 

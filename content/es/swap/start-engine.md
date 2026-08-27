@@ -3,22 +3,22 @@ weight: 22
 title: "Arrancando el motor"
 ---
 
-# Arrancando del motor
+# Arrancando el motor
 
 ## ECU
 
 La ECU que se utilizará es la del Golf MK5 GTI (BWA); 1K0 907 115 Q. Obviamente reemplaza la ECU original del Golf MK3, que ya no se utiliza. Sin embargo, esto presenta varios problemas:
 
-1. **qué hacer con todos los DTC en la ECU porque faltan sensores/actuadores**. En ese caso, tuvimos que analizar todos los DTC y determinar si eran genuinos o si se podían eliminar porque el sensor/actuador ya no existía. Siempre que un DTC era genuino, tuvimos que investigar el problema hasta resolverlo. Los DTC relacionados con  un sensor/actuador inxistente, se borraron.
-2. **cómo evitar el inmovilizador, para que se pueda arrancar el motor**. Aquí la respuesta es simple, tuvimos que desactivar el inmovilizador con un programa especial (eeprom) para desactivar el inmovilizador en las ECU MED9.1.
+1. **qué hacer con todos los DTC en la ECU porque faltan sensores/actuadores**. En ese caso, tuvimos que analizar todos los DTC y determinar si eran genuinos o si se podían eliminar porque el sensor/actuador ya no existía. Siempre que un DTC era genuino, tuvimos que investigar el problema hasta resolverlo. Los DTC relacionados con un sensor/actuador inexistente, se borraron.
+2. **cómo evitar el inmovilizador, para que se pueda arrancar el motor**. Aquí la respuesta es simple: tuvimos que desactivar el inmovilizador con un programa especial (eeprom) para desactivar el inmovilizador en las ECU MED9.1.
 
 Como la ECU utilizada se obtuvo de un desguace, se compró una copia nueva y limpia de la memoria flash (no se sabe si el propietario anterior de la ECU hizo modificaciones en la memoria flash).
 
-Y ahora ya están todas las piezas necesarias; una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se pueden modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todas los CRC de comprobación se calcularon correctamente.
+Y ahora ya están todas las piezas necesarias: una ECU, un archivo eeprom leído desde la ECU y modificado para desactivar el inmovilizador y una memoria flash con un estado conocido en el que se pueden modificar (eliminar los DTC). Obviamente, para eso también necesitamos un software especial para poder leer y escribir los archivos eeprom y flash desde y hacia la ECU. Para ese propósito, se utilizó el software Trasdata de DimSport, con la ventaja adicional de que todos los CRC de comprobación se calcularon correctamente.
 
 ## Exprimiendo el motor
 
-Como parte del swap, se cambiaron algunos de los componentes originales del motor, en resumen; los inyectores de combustible, el sensor de presión de combustible, el sensor MAP y la válvula de limitación de presión de combustible. La siguiente tabla muestra los números de referencia para diferentes códigos de motor.
+Como parte del swap, se cambiaron algunos de los componentes originales del motor, en resumen, los inyectores de combustible, el sensor de presión de combustible, el sensor MAP y la válvula de limitación de presión de combustible. La siguiente tabla muestra los números de referencia para diferentes códigos de motor.
 
 | Descripción                                     | BWA (200 hp)  | BYD (230 hp)  |
 |-------------------------------------------------|---------------|---------------|
@@ -35,18 +35,18 @@ El código de motor original es un motor BWA; actualizar los componentes de la t
 
 ## Arranque del motor
 
-Después de varios años trabajando en este swap de motor, todas las piezas necesarias estan listas para arrancar el motor, incluido el arnés de cableado del motor. Así que lo intentamos y no tuvimos suerte. Para determinar el problema, se utilizó una herramienta de diagnóstico VAGCOM pero aún así no se consiguió una respuesta clara.
+Después de varios años trabajando en este swap de motor, todas las piezas necesarias están listas para arrancar el motor, incluido el arnés de cableado del motor. Así que lo intentamos y no tuvimos suerte. Para determinar el problema, se utilizó una herramienta de diagnóstico VAGCOM pero aún así no se consiguió una respuesta clara.
 
 <figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img"><figcaption>Cableado del motor.</figcaption></figure>
 
-Se decidió quitar el arnés del motor y revisarlo cuidadosamente. Para mayor información, el arnés del motor se compró en [S&P Automotive](https://s-pautomotive.com/). En principio, este arnés era para un Golf MK5 GTI (BWA), pero adaptado para usarse en un Golf MK3. Esto significa que se eliminó el cableado necesario para los sensores y las puertas de enlace que no están presentes en el Golf MK3. Los diagramas eléctricos completos del Golf MK3 y Golf MK5 fueron necesarios para verificar el cableado del motor y determinar qué cambios se introdujeron en el cableado del motor Golf MK5 GTI (BWA) original. Después de varios días de pruebas y lectura de los diagramas eléctricos, pudimos certificar que, en general, los cambios en el cableado del motor Golf MK5 GTI (BWA) original realizados por [S&P Automotive](https://s-pautomotive.com/), eran correctos con 2 salvedades:
+Se decidió quitar el arnés del motor y revisarlo cuidadosamente. Para mayor información, el arnés del motor se compró en [S&P Automotive](https://s-pautomotive.com/). En principio, este arnés era para un Golf MK5 GTI (BWA), pero adaptado para usarse en un Golf MK3. Esto significa que se eliminó el cableado necesario para los sensores y las puertas de enlace que no están presentes en el Golf MK3. Los diagramas eléctricos completos del Golf MK3 y Golf MK5 fueron necesarios para verificar el cableado del motor y determinar qué cambios se introdujeron en el cableado del motor Golf MK5 GTI (BWA) original. Después de varios días de pruebas y lectura de los diagramas eléctricos, pudimos certificar que, en general, los cambios en el cableado del motor Golf MK5 GTI (BWA) original realizados por [S&P Automotive](https://s-pautomotive.com/) eran correctos con 2 salvedades:
 
 1. Se rompió un pin del conector del cigüeñal. Por lo tanto, se tuvo que cambiar todo el conector.
 2. Se quitó el V50 (bomba de circulación de refrigerante). Suponemos que esto se hizo intencionalmente, sin embargo, reintrodujimos el cableado para soportar el V50.
 
 <figure><img src="/images/intro-engine-rebuild.jpg" class="thumb-img"><figcaption>Cableado del motor.</figcaption></figure>
 
-Y ahora la pregunta clave es, ¿funcionó y arrancó el motor?, así que la respuesta es no. Entonces, después de investigar más, se pudo determinar que el motor no estaba montado correctamente, las válvulas de un cilindro estaban dobladas y la compresión no era la correcta, por lo que esto impedia que el motor arrancara. Lamentablemente, la culata tuvo que desmontarse y enviarse a retificar. Después de varios días de espera, la culata estaba de vuelta, por lo que se volvió a ensamblar (esta vez correctamente) y esta vez sí, el motor arrancó.
+Y ahora la pregunta clave es ¿funcionó y arrancó el motor?, así que la respuesta es no. Entonces, después de investigar más, se pudo determinar que el motor no estaba montado correctamente, las válvulas de un cilindro estaban dobladas y la compresión no era la correcta, por lo que esto impedía que el motor arrancara. Lamentablemente, la culata tuvo que desmontarse y enviarse a rectificar. Después de varios días de espera, la culata estaba de vuelta, por lo que se volvió a ensamblar (esta vez correctamente) y esta vez sí, el motor arrancó.
 
 La lección aprendida aquí es que siempre que comiences una tarea, termínala y no dejes pasar el tiempo, de lo contrario, puedes olvidarte fácilmente de las cosas y causar problemas graves.
 
