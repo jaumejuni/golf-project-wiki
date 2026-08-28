@@ -9,18 +9,18 @@ images: ["/images/golf-dyno.jpeg"]
 
 ## First test
 <figure class="flow-figure right stack same-width"><video controls><source src="/images/car-testing-first-test-01.webm" type="video/webm"></video></figure>
-The engine was fired up for the first time in June 2024. After that a lot of work on hydraulics had to be completed; steering and brakes. In addition and to make the things more interesting the slave clutch cylinder failed (it was completely new!!!) and the union between the engine and the gearbox was leaking. As a result the engine and the gearbox had to be put down and the slave clutch cylinder replaced by a new one. Plenty of work, however we took that opportunity to ensure that everything was properly assembled to avoid further surprises.
+The engine was fired up for the first time in June 2024. After that, a lot of work remained on the hydraulics, steering and brakes. To make things more interesting, the slave clutch cylinder failed — despite being completely new — and the union between the engine and the gearbox was leaking. As a result, the engine and gearbox had to come back out and the slave clutch cylinder had to be replaced. Plenty of extra work, but we used the opportunity to make sure everything was properly assembled and avoid further surprises.
 
-After a lot of work on hydraulics, electrics and the problem with the gearbox, the car from a mechanical point of view was completed by the beginning of October 2024. After testing the steering and gearbox with the front wheels up in the air, and checking that everything works, it was time to do the first test; driving forward and backwards in the garage.
+After a lot of work on the hydraulics, the electrics and the gearbox problem, the car was mechanically complete by the beginning of October 2024. Once the steering and gearbox had been tested with the front wheels off the ground and everything checked out, it was time for the first test: driving forward and backward inside the garage.
 
-Keep in mind that the car has not gone through MOT-like inspection (ITV in Spain) for the last 3 years and the engine has been modified, so the car for the moment is not road legal, so it cannot be tested on the street for the moment. Because of that we had to do the first test within the garage.
+Keep in mind that the car has not gone through the MOT-like inspection (ITV in Spain) for the last three years, and the engine has been modified, so for the moment the car is not road legal and cannot be tested on the street. Because of that, we had to run the first test inside the garage.
 
-The idea once the body shop finishes the car in the following days, is to take it to a closed road for testing and see how it behaves. For the moment we are really excited to see the car move.
+Once the body shop finishes the car in the following days, the idea is to take it to a closed road for testing and see how it behaves. For now, we are just excited to see the car move.
 
 ## Further tests
 <!-- <figure class="flow-figure right stack same-width"><img src="/images/tunning-03.jpg"></figure> -->
 
-The first road tests did not go well. The engine was running rough, and we soon discovered there was a misalignment between the ECU software and the engine modifications. This was somewhat expected since we had introduced custom engine modifications: K04 turbo compressor, 3bar MAP and S3 injectors. 
+The first road tests did not go well: the engine was running rough, and we soon discovered a misalignment between the ECU software and the engine modifications. This was somewhat expected, since we had introduced custom engine modifications — a K04 turbo compressor, a 3-bar MAP sensor and S3 injectors.
 <figure class="flow-figure right stack same-width"><img src="/images/tunning-02.jpg" alt="ECU tuning session while diagnosing the rough-running K04 conversion"></figure>
 
 Our solution was to grab an original BWA flash image (aligned with our ECU hardware) and use ecufiles.com to create a Stage 3 tune featuring the K04 turbo compressor, MAP scaling, and fuel injector scaling. But it did not work—the engine continued running rough.

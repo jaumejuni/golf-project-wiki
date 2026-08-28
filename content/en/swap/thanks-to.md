@@ -8,9 +8,9 @@ description: "Thanks to the people who made this Golf MK3 TFSI swap possible, pl
 
 ## Special thanks
 
-It's hard to imagine this project without the support and understanding of my wife, Michaela, as for many, many nights after putting our kids to bed, I stayed in front of the computer doing research work.
+It is hard to imagine this project without the support and understanding of my wife, Michaela — on many, many nights, after putting our kids to bed, I stayed in front of the computer doing research.
 
-In addition to her, I also want to thank them a lot for the time and patience that Marc (mechanic) and Sergi (an expert in car certifications) have dedicated to me; without them I would not have been able to carry out this project.
+I also want to thank Marc (mechanic) and Sergi (an expert in car certifications) for all the time and patience they have dedicated to me; without them, I would not have been able to carry out this project.
 
 Here are the contact details of these 2 great professionals in case they can be of help to you in the future.
 

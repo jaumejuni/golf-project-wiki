@@ -8,9 +8,9 @@ description: "Agradecimientos a las personas que hicieron posible este swap TFSI
 
 ## Agradecimientos
 
-Es difícil imaginar este proyecto sin el apoyo y comprensión de mi mujer, Michaela, ya que durante muchas, muchas noches después de acostar a nuestros hijos, me quedé delante del ordenador buscando toda la información necesaria para este proyecto.
+Es difícil imaginar este proyecto sin el apoyo y la comprensión de mi mujer, Michaela: muchas, muchas noches, después de acostar a nuestros hijos, me quedé frente al ordenador investigando.
 
-Además de a ella, también quiero agradecer el tiempo y la paciencia que Marc (mecánico) y Sergi (experto en certificaciones de coches) me han dedicado. Sin ellos no habría podido llevar a cabo este proyecto.
+También quiero agradecer a Marc (mecánico) y a Sergi (experto en homologaciones de coches) todo el tiempo y la paciencia que me han dedicado; sin ellos no habría podido llevar a cabo este proyecto.
 
 A continuación os dejo los datos de contacto de estos 2 grandes profesionales por si os pueden ser de ayuda en el futuro.
 

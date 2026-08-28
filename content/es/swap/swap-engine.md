@@ -18,7 +18,7 @@ En este caso, y siguiendo los consejos del taller, se realizó una restauración
 
 El resultado final son 2 meses de trabajo por parte del taller, donde se cambiaron las aletas laterales delanteras izquierda y derecha ya que las antiguas estaban oxidadas (bastante común en este tipo de Golf) y algunos embellecedores de plástico laterales ya que estaban rotos.
 
-A finales de junio de 2022 el coche está de vuelta al taller de Marc (el mecánico), y toca empezar a trastear con la parte mecánica.
+A finales de junio de 2022, el coche estaba de vuelta en el taller de Marc (el mecánico), y tocaba empezar a trastear con la parte mecánica.
 
 ## Eje delantero y trasero
 
@@ -70,7 +70,7 @@ Cualquier swap implica encontrar y montar piezas de más de un vehículo. En est
 + **Golf MK5 GTI**. Este es el vehículo donante. La mayoría de las piezas de motor pertenecen a este vehículo.
 + **Golf MK4 R32**. Las referencias a este vehículo son los discos de freno delanteros y las pinzas de freno traseras. Ambos necesitan adaptadores hechos a medida para poder montarlos en el Golf MK3.
 
-<figure><img src="/images/before-cylinderhead-01.jpg" alt="Culata del motor BWA antes de limpiarla"><figcaption>Culata antes de limpiarla.</figcaption></figure>
+<figure class="clear-flow"><img src="/images/before-cylinderhead-01.jpg" alt="Culata del motor BWA antes de limpiarla"><figcaption>Culata antes de limpiarla.</figcaption></figure>
 
 ### Compra y reconstrucción del motor
 
@@ -98,7 +98,7 @@ En diciembre de 2022 hicimos el primer intento de montar el motor, pero estaba i
 
 Y había truco. Desde [Fabless Manufacturing](https://www.fablessmanufacturing.com/) nos aclararon que había que mover las copas del subchasis. ¿Cómo? Muy fácil, como indica este [vídeo](https://www.youtube.com/watch?v=VxRCBlZ3ugI). De hecho, recientemente han sacado la segunda parte del kit que es un subchasis tubular donde se colocan las copas correctamente para montar el motor. No obstante, todo tiene un precio y no es precisamente barato, pero por lo demás mi experiencia con [Fabless Manufacturing](https://www.fablessmanufacturing.com/) ha sido genial y siempre han respondido bien y rápido. Además la calidad de sus productos es inmejorable.
 
-<figure><img src="/images/second-attempt-05.jpg" alt="Segundo intento de montar el motor tras mover las copas del subchasis"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
+<figure class="clear-flow"><img src="/images/second-attempt-05.jpg" alt="Segundo intento de montar el motor tras mover las copas del subchasis"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
 
 #### Segundo intento y definitivo
 
@@ -116,7 +116,7 @@ Otro problema que se nos presentó fue qué intercooler utilizar. Había 2 opcio
 + **Intercooler original**. Las dimensiones del núcleo de este intercooler son de unos 615x405x32mm (7,9L y 129cm²). Con esta altura, el intercooler quedaría muy bajo (debajo del alerón delantero del Golf MK3) a apenas unos centímetros del suelo, y además requeriría una modificación importante del travesaño del motor. Así que se descartó.
 + **Intercooler de tamaño reducido**. Ahora ya sabemos que la altura máxima del intercooler está limitada a unos 20cm por el travesaño del motor. Como norma general (ver el siguiente [enlace](https://www.audi-sport.net/xf/threads/best-way-to-calculate-the-size-of-intercooler-required.213538/)) el intercooler debe tener un volumen de 3L y una sección de 50cm² por cada 100cv del motor. En nuestro caso vamos a coger la potencia de 200cv, y, por tanto, el volumen y la sección mínima son: 6L y 100cm². Con estos datos se ha elegido un intercooler con las siguientes dimensiones 550x180x65mm (6,5L y 117cm²). A esto hay que añadir que el intercooler está fabricado en aleación de aluminio de alta calidad.
 
-<figure><img src="/images/second-attempt-06.jpg" alt="Motor montado en el vano del Golf MK3 durante el segundo intento"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
+<figure class="clear-flow"><img src="/images/second-attempt-06.jpg" alt="Motor montado en el vano del Golf MK3 durante el segundo intento"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
 
 ## Conductos de admisión y escape
 

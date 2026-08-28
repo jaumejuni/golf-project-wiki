@@ -18,7 +18,7 @@ In this case, and following the advice of the body shop, a full restoration of t
 
 The final result is 2 months of work by the body shop and the left and right front side wings were changed as the old ones were rusty (quite common in this type of Golf). In addition, some lateral plastic trimming was also changed as it was broken.
 
-At the end of June 2022 the car was back in the workshop with Marc, and it's time to start messing with the mechanical parts.
+At the end of June 2022, the car was back at Marc's workshop, and it was time to start working on the mechanical parts.
 
 ## Front and rear axles
 <figure><img src="/images/front-brakes-toobig-01.jpg" alt="Oversized CEIKA front brake discs rubbing against the 17-inch wheel"><figcaption>Front brake discs too big.</figcaption></figure>
@@ -27,7 +27,7 @@ At the end of June 2022 the car was back in the workshop with Marc, and it's tim
 
 As previously mentioned, in order to be able to make the engine swap road legal, the size of the front discs and the number of caliper pistons must be at least the same as those of the donor vehicle.
 
-In the case of the Golf MK5 GTI, the discs are 312x25mm with a single-piston caliper. After countless hours browsing the internet to find the perfect BBK (Big Brake Kit), that is, good, nice and cheap, I decided to go for a CEIKA kit; 345x32mm and 6-piston calipers, a monster!!. But I was wrong twice.
+In the case of the Golf MK5 GTI, the discs are 312x25mm with a single-piston caliper. After countless hours browsing the internet to find the perfect BBK (Big Brake Kit), that is, good, nice and cheap, I decided to go for a CEIKA kit; 345x32mm and 6-piston calipers, a monster!! But I was wrong twice.
 
 From the beginning I was wondering if I had 17" or 18" wheels. After thinking about it a lot I decided on 17" BBS wheels. At the time of buying the BBK, I had not yet chosen the size of the wheels, so I bought a disc size that was as big as possible and could be mounted on 17" or 18" rims. And I chose 345mm, but these discs fit very tightly on a 17" rim. In fact because of the profile of the 17" rim those discs were rubbing against the rim.
 
@@ -45,7 +45,7 @@ To complete the configuration of the front axle, the following elements were add
 
 ### Rear axle
 
-Luckily, I didn't buy the BBK for the rear axle from CEIKA 😅. I have to admit that I was tempted, but in the end, after looking for alternatives, I discovered that my friends at Epytec have a kit that is perfect and much cheaper.
+Luckily, I did not buy the BBK for the rear axle from CEIKA 😅. I have to admit that I was tempted, but in the end, after looking for alternatives, I discovered that my friends at Epytec have a kit that is perfect and much cheaper.
 
 + 310x22mm discs from the VW Phaeton.
 + Golf MK4 R32 rear calipers
@@ -53,7 +53,7 @@ Luckily, I didn't buy the BBK for the rear axle from CEIKA 😅. I have to admit
 
 In summary, except for the adapter, standard parts that can be found in multiple online stores.
 
-As a bonus, a sway bar has also been added to the rear axle 😀. 
+As a bonus, a sway bar has also been added to the rear axle 😀.
 
 
 ## Engine rebuild
@@ -61,14 +61,14 @@ As a bonus, a sway bar has also been added to the rear axle 😀.
 
 ### ETKA and the various vehicles used for the swap
 
-Before starting this project, September 2021, I knew very little about mechanics, now I can say that I still don't know about mechanics, but I have become, after many hours, an expert in searching for the pieces that are needed in [ETKA](https://volkswagen.7zap.com/en/rdw/) of the VAG group 😇.
+Before starting this project, back in September 2021, I knew very little about mechanics. Now I can say that I still do not know much about mechanics, but after many hours I have become an expert at finding the parts needed in [ETKA](https://volkswagen.7zap.com/en/rdw/) of the VAG group 😇.
 
 Any swap involves finding and assembling parts from more than one vehicle. In this specific case, parts of the following vehicles have been searched for and purchased:
 
 + **Golf MK3 GTI**. This is the receiving vehicle, so the parts that have been purchased for this vehicle are mostly bodywork, interior and aesthetics (emblems and anagrams).
 + **Golf MK5 GTI**. This is the donor vehicle. Most of the engine parts belong to this vehicle.
 + **Golf MK4 R32**. References to this vehicle are the front brake discs and the rear brake calipers. Both need custom-made adapters to be able to be mounted on the Golf MK3.
-<figure><img src="/images/before-cylinderhead-01.jpg" alt="BWA cylinder head before cleaning"><figcaption>Cylinder head before cleaning.</figcaption></figure>
+<figure class="clear-flow"><img src="/images/before-cylinderhead-01.jpg" alt="BWA cylinder head before cleaning"><figcaption>Cylinder head before cleaning.</figcaption></figure>
 
 ### Engine purchase and rebuild
 
@@ -94,9 +94,9 @@ With the kit, and the body of the car restored and resprayed, Marc and I got dow
 
 In December 2022 we made the first attempt to fit the engine, but it was tilted to the right and uneven (and we had to support it with a chain and another support underneath). The kit's anchor points are three: one in the middle at the front of the engine and two on each side at the rear of the engine (beware!...they are not the same mounts as on the Golf MK5 GTI).
 
-And there was a trick. From [Fabless Manufacturing](https://www.fablessmanufacturing.com/) they clarified that the subframe cups had to be moved. How? Very easy, as this [video](https://www.youtube.com/watch?v=VxRCBlZ3ugI) indicates. In fact, they have recently released the second part of the kit which is a tubular subframe where the cups are properly positioned to fit the engine. However, everything has a price and it's not exactly cheap, but other than that my experience with [Fabless Manufacturing](https://www.fablessmanufacturing.com/) has been great and they have always responded well and quickly. In addition, the quality of their products is unbeatable.
+And there was a trick. From [Fabless Manufacturing](https://www.fablessmanufacturing.com/) they clarified that the subframe cups had to be moved. How? Very easy, as this [video](https://www.youtube.com/watch?v=VxRCBlZ3ugI) indicates. In fact, they have recently released the second part of the kit which is a tubular subframe where the cups are properly positioned to fit the engine. However, everything has a price and it is not exactly cheap, but other than that my experience with [Fabless Manufacturing](https://www.fablessmanufacturing.com/) has been great and they have always responded well and quickly. In addition, the quality of their products is unbeatable.
 
-<figure><img src="/images/second-attempt-05.jpg" alt="Second attempt to fit the engine after moving the subframe cups"><figcaption>Second attempt to put the engine.</figcaption></figure>
+<figure class="clear-flow"><img src="/images/second-attempt-05.jpg" alt="Second attempt to fit the engine after moving the subframe cups"><figcaption>Second attempt to put the engine.</figcaption></figure>
 
 #### Second attempt and final
 
@@ -114,7 +114,7 @@ Another problem that popped up was which intercooler to use. There were 2 option
 + **Original intercooler**. The dimensions of the core of this intercooler are about 615x405x32mm (7.9L and 129cm²). With this height, the intercooler would be very low (below the front spoiler of the Golf MK3) just a few centimeters from the ground, and would also require a significant modification of the engine crossbar. So it was discarded.
 + **Small size intercooler**. We now know that the maximum height of the intercooler is limited to about 20cm by the engine crossbar. As a general rule (see the following [link](https://www.audi-sport.net/xf/threads/best-way-to-calculate-the-size-of-intercooler-required.213538/)) the intercooler must have a volume of 3L and a section of 50cm² for every 100hp of the engine. In our case we are going to take the power of 200hp, and, therefore, the minimum volume and section are: 6L and 100cm². With these data, an intercooler with the following dimensions 550x180x65mm (6.5L and 117cm²) was chosen. To this we must add that the intercooler is made of high quality aluminum alloy.
 
-<figure><img src="/images/second-attempt-06.jpg" alt="Engine mounted in the Golf MK3 bay during the second fitting attempt"><figcaption>Second attempt to put the engine.</figcaption></figure>
+<figure class="clear-flow"><img src="/images/second-attempt-06.jpg" alt="Engine mounted in the Golf MK3 bay during the second fitting attempt"><figcaption>Second attempt to put the engine.</figcaption></figure>
 
 ### Intake and exhaust lines
 
