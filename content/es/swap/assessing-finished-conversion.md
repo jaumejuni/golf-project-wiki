@@ -1,6 +1,7 @@
 ---
 weight: 27
 title: "Evaluación de la conversión"
+description: "Revisión completa del swap TFSI terminado en el Golf MK3: márgenes del motor, transmisión, refrigeración, frenos, suspensión, pesos y diseño eléctrico."
 ---
 
 # Evaluación de la conversión

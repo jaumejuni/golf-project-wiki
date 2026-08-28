@@ -1,6 +1,8 @@
 ---
 weight: 10
 title: "¿Qué hacer con un coche de más de 25 años?"
+description: "Por qué decidí restaurar mi Golf MK3 GTI de 1996 con un swap de motor TFSI en lugar de venderlo, y las normas españolas que marcaron cada decisión."
+images: ["/images/beginning-noplate-01.jpg"]
 ---
 
 # ¿Qué hacer con un coche de más de 25 años?
@@ -9,7 +11,7 @@ title: "¿Qué hacer con un coche de más de 25 años?"
 
 Compré este coche (mi primer coche), un Golf MK3 GTI, en 1996, y siempre le he tenido un cariño especial. He hecho muchos viajes con él y he disfrutado de momentos inolvidables, pero ahora tengo que decidir qué hacer. Pensándolo fríamente, hay 2 respuestas posibles:
 
-<figure><img src="/images/beginning-03.jpg"><figcaption>Motor original: ADY 2.0L 8V 115hp.</figcaption></figure>
+<figure><img src="/images/beginning-03.jpg" alt="Motor original del Golf MK3 GTI: ADY 2.0L 8V de 115cv"><figcaption>Motor original: ADY 2.0L 8V 115hp.</figcaption></figure>
 
 1. Jubilarlo con todos los honores por los servicios prestados.
 2. Restaurarlo para que luzca como nuevo otra vez.
@@ -26,7 +28,7 @@ Todo esto no es rápido ni barato, de hecho es mucho más barato comprar un Golf
 
 El plan es sencillo, cambiar el motor y hacerlo legal para circular por las carreteras españolas.
 
-<figure><img src="/images/beginning-noplate-01.jpg"><figcaption>Vista frontal antes del swap.</figcaption></figure>
+<figure><img src="/images/beginning-noplate-01.jpg" alt="Vista frontal del Golf MK3 GTI antes de empezar el proyecto de swap"><figcaption>Vista frontal antes del swap.</figcaption></figure>
 
 Entrando un poco más en detalle, esto significa:
 
@@ -49,7 +51,7 @@ Desde el principio tuve la suerte de contar con:
 
 Lo primero y más importante es que esto no es una lista exhaustiva ni exacta. La normativa es compleja y puede cambiar. Por ello, como he comentado antes, es imprescindible contar con un ingeniero especializado en coches que te guíe y te lleve a lo largo de todo el proyecto.
 
-<figure><img src="/images/first-attempt-03.jpg"><figcaption>Primer intento en poner el motor</figcaption></figure>
+<figure><img src="/images/first-attempt-03.jpg" alt="Primer intento de encajar el motor BWA del Golf MK5 GTI en el vano del Golf MK3"><figcaption>Primer intento en poner el motor</figcaption></figure>
 
 Dicho esto, las reglas básicas para poder homologar cambios en España son:
 

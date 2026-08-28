@@ -1,6 +1,8 @@
 ---
 weight: 22
 title: "Starting the engine"
+description: "Reprogramming the BWA ECU, bypassing the immobilizer, fixing a wiring harness and a bent valve, and adapting the original Golf MK3 instrument cluster."
+images: ["/images/intro-engine-wiring.jpg"]
 ---
 
 # Starting the engine
@@ -37,14 +39,14 @@ The original engine code is a BWA engine; upgrading the parts in the table above
 
 After several years working on this engine swap, all the required pieces were ready to start the engine including the engine wiring harness. So we tried and no luck, so what is missing or failing?. So a VAGCOM diagnosis tool was used to help to determine the error in the engine, but it was not clear.
 
-<figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img"><figcaption>Engine Wiring Harness.</figcaption></figure>
+<figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img" alt="Golf MK5 GTI BWA engine wiring harness being checked before startup"><figcaption>Engine Wiring Harness.</figcaption></figure>
 
 It was decided to remove the engine wiring harness and check it thoughtfully. For full disclosure the engine wiring harness was bought from [S&P Automotive](https://s-pautomotive.com/). In principle this engine wiring harness shall be a Golf MK5 GTI (BWA) engine wiring harness adapted to be used within a Golf MK3. This means that wiring required for sensors and gateways not present in Golf MK3 was removed. So full electric diagrams for Golf MK3 and Golf MK5 were necessary to start checking the engine wiring harness and determine what changes to the original Golf MK5 GTI (BWA) engine wiring harness were introduced. After several days testing and reading the electric diagrams it could be certified that overall the changes to the original Golf MK5 GTI (BWA) engine wiring harness made by [S&P Automotive](https://s-pautomotive.com) were right with 2 caveats:
 
 1. A pin of the crankshaft connector was broken. Therefore the full connector had to be changed.
 2. The V50 (coolant circulation pump) was removed; however, the V50 wiring was reintroduced to support it again.
 
-<figure><img src="/images/intro-engine-rebuild.jpg" class="thumb-img"><figcaption>Engine Wiring Harness.</figcaption></figure>
+<figure><img src="/images/intro-engine-rebuild.jpg" class="thumb-img" alt="BWA engine during the rebuild after the cylinder head issue was resolved"><figcaption>Engine Wiring Harness.</figcaption></figure>
 
 And now the key question is: did it work and did the engine start? So the answer is no. So after further investigation it could be determined that the engine was not properly mounted, valves in one cylinder were bent and the compression was not right, so this stopped the engine from starting. Unfortunately the cylinder head had to be disassembled and sent to a CNC. After several days waiting the cylinder head was back, so it was assembled again (this time properly) and this time yes, the engine started.
 

@@ -2,19 +2,21 @@
 title: Introduction
 type: docs
 menus: main
+description: "Full write-up of swapping a Golf MK5 GTI TFSI (BWA) engine into a Golf MK3 GTI: wiring, custom fabrication, and getting it road legal in Spain."
+images: ["/images/intro-engine-placement.jpg"]
 ---
 
 # Swap a Golf MK5 GTI TFSI engine into a Golf MK3
 
-<figure><img src="/images/intro-engine-placement.jpg" class="thumb-img"><figcaption>Placing the engine.</figcaption></figure>
-<figure><img src="/images/intro-empty-engine-bay.jpg" class="thumb-img"><figcaption>Empty engine bay.</figcaption></figure>
+<figure><img src="/images/intro-engine-placement.jpg" class="thumb-img" alt="Golf MK5 GTI TFSI engine being placed into the Golf MK3 engine bay"><figcaption>Placing the engine.</figcaption></figure>
+<figure><img src="/images/intro-empty-engine-bay.jpg" class="thumb-img" alt="Empty Golf MK3 engine bay before the TFSI engine swap"><figcaption>Empty engine bay.</figcaption></figure>
 
 This website explains the full project to swap a Golf MK5 GTI engine (engine code BWA) into a Golf MK3 GTI. In addition to that it also explains how to make it road legal (in Spain) and all the challenges to overcome to make it work.
 There is plenty of custom fabrication to fit the engine and all the pipes around, but by far the most complex part is the electrics.
 
 Two different wiring harnesses must work together. From an engine point of view a Golf MK5 GTI (BWA) wiring harness must be adapted to work within a Golf MK3; different ABS, speed sensors, etc. In addition the original Golf MK3 instrument cluster is kept, so engine speed, VSS and other signals must be adapted to make sure the original cluster continues displaying the right information.
 
-<figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img"><figcaption>Engine Wiring Harness.</figcaption></figure>
+<figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img" alt="Golf MK5 GTI BWA engine wiring harness adapted for the Golf MK3 swap"><figcaption>Engine Wiring Harness.</figcaption></figure>
 
 This means that the original Golf MK5 engine Wiring Harness must be modified to be able to start the engine in a Golf Mk3. The modifications to the engine wiring harness will depend on the approach followed. 
 
@@ -22,7 +24,7 @@ In that case no fuse boxes from Golf Mk5 were used and the wiring harness contai
 
 Some of the Engine Wiring Harnesses sold for this type of swap remove the support for the V50 (coolant circulation pump), as this pump is only required when the engine is shut and the turbocompressor is still hot. In this swap the V50 pump is retained and properly used to cool down the turbocompressor when the engine is switched off.
 
-<figure><img src="/images/intro-custom-exaust.jpg" class="thumb-img"><figcaption>Custom exhausts.</figcaption></figure>
+<figure><img src="/images/intro-custom-exaust.jpg" class="thumb-img" alt="Custom fabricated exhaust adapting the Golf MK5 GTI BWA system to the Golf MK3"><figcaption>Custom exhausts.</figcaption></figure>
 
 Another aspect to consider is the exhaust; long story short, a Golf MK5 BWA exhaust must be adapted to a Golf MK3, and these changes must be done in a way that the new exhaust that fits in a Golf MK3 is certified for a Golf MK5 BWA engine. As you can imagine the exhaust is custom made and requires a lot of fabrication.
 

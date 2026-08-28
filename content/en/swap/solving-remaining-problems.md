@@ -1,6 +1,7 @@
 ---
 weight: 25
 title: "Solving the remaining problems"
+description: "Diagnosing a shared K-Line fault between the ABS and airbag units, and validating the cooling system and engine internals after 20+ dyno runs."
 ---
 
 # Solving the remaining problems

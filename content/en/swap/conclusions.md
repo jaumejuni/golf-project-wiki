@@ -1,6 +1,7 @@
 ---
 weight: 28
 title: "Conclusions"
+description: "Lessons learned from years of building a Golf MK3 TFSI swap: why to involve an engineer early, choose the right garage, and expect it to take time."
 ---
 
 # Conclusions

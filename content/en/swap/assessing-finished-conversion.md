@@ -1,6 +1,7 @@
 ---
 weight: 27
 title: "Assessing the finished conversion"
+description: "A full review of the finished Golf MK3 TFSI swap: engine margins, drivetrain, cooling, brakes, suspension, weight distribution and electrical design."
 ---
 
 # Assessing the finished conversion

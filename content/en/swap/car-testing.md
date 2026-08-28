@@ -1,6 +1,8 @@
 ---
 weight: 24
 title: "Car testing"
+description: "How the Golf MK3 TFSI swap performed on the road and dyno: ECU tuning setbacks, a Stage 3 calibration, and the final 273.2hp/445Nm result."
+images: ["/images/golf-dyno.jpeg"]
 ---
 
 # Car testing
@@ -15,11 +17,11 @@ Keep in mind that the car has not gone through MOT-like inspection (ITV in Spain
 
 The idea once the body shop finishes the car in the following days, is to take it to a closed road for testing and see how it behaves. For the moment we are really excited to see the car move.
 
-# Further tests
+## Further tests
 <!-- <figure class="flow-figure right stack same-width"><img src="/images/tunning-03.jpg"></figure> -->
 
 The first road tests did not go well. The engine was running rough, and we soon discovered there was a misalignment between the ECU software and the engine modifications. This was somewhat expected since we had introduced custom engine modifications: K04 turbo compressor, 3bar MAP and S3 injectors. 
-<figure class="flow-figure right stack same-width"><img src="/images/tunning-02.jpg"></figure>
+<figure class="flow-figure right stack same-width"><img src="/images/tunning-02.jpg" alt="ECU tuning session while diagnosing the rough-running K04 conversion"></figure>
 
 Our solution was to grab an original BWA flash image (aligned with our ECU hardware) and use ecufiles.com to create a Stage 3 tune featuring the K04 turbo compressor, MAP scaling, and fuel injector scaling. But it did not work—the engine continued running rough.
 Almost a year passed. During that time, we tested multiple combinations, but nothing worked. Then, by luck, a Golf Mk5 EOS appeared with a BWA engine—the same engine code we are using in our swap—so we decided to try its ECU and software.
@@ -34,7 +36,7 @@ The tuning process involved more than twenty dyno runs while progressively adjus
 
 The graph below shows the final dyno run.
 
-<figure class="flow-figure full-width"><img src="/images/golf-dyno.jpeg"></figure>
+<figure class="flow-figure full-width"><img src="/images/golf-dyno.jpeg" alt="Dyno graph of the final power and torque run: 273.2 hp and 445 Nm"></figure>
 
 The final result was **273.2 hp and 445 Nm**.
 

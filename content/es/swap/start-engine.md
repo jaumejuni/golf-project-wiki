@@ -1,6 +1,8 @@
 ---
 weight: 22
 title: "Arrancando el motor"
+description: "Reprogramar la ECU BWA, desactivar el inmovilizador, arreglar el arnés de cableado y una válvula doblada, y adaptar el cuadro de instrumentos original del Golf MK3."
+images: ["/images/intro-engine-wiring.jpg"]
 ---
 
 # Arrancando el motor
@@ -37,14 +39,14 @@ El código de motor original es un motor BWA; actualizar los componentes de la t
 
 Después de varios años trabajando en este swap de motor, todas las piezas necesarias están listas para arrancar el motor, incluido el arnés de cableado del motor. Así que lo intentamos y no tuvimos suerte. Para determinar el problema, se utilizó una herramienta de diagnóstico VAGCOM pero aún así no se consiguió una respuesta clara.
 
-<figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img"><figcaption>Cableado del motor.</figcaption></figure>
+<figure><img src="/images/intro-engine-wiring.jpg" class="thumb-img" alt="Arnés de cableado del motor BWA del Golf MK5 GTI revisado antes del arranque"><figcaption>Cableado del motor.</figcaption></figure>
 
 Se decidió quitar el arnés del motor y revisarlo cuidadosamente. Para mayor información, el arnés del motor se compró en [S&P Automotive](https://s-pautomotive.com/). En principio, este arnés era para un Golf MK5 GTI (BWA), pero adaptado para usarse en un Golf MK3. Esto significa que se eliminó el cableado necesario para los sensores y las puertas de enlace que no están presentes en el Golf MK3. Los diagramas eléctricos completos del Golf MK3 y Golf MK5 fueron necesarios para verificar el cableado del motor y determinar qué cambios se introdujeron en el cableado del motor Golf MK5 GTI (BWA) original. Después de varios días de pruebas y lectura de los diagramas eléctricos, pudimos certificar que, en general, los cambios en el cableado del motor Golf MK5 GTI (BWA) original realizados por [S&P Automotive](https://s-pautomotive.com/) eran correctos con 2 salvedades:
 
 1. Se rompió un pin del conector del cigüeñal. Por lo tanto, se tuvo que cambiar todo el conector.
 2. Se quitó el V50 (bomba de circulación de refrigerante). Suponemos que esto se hizo intencionalmente, sin embargo, reintrodujimos el cableado para soportar el V50.
 
-<figure><img src="/images/intro-engine-rebuild.jpg" class="thumb-img"><figcaption>Cableado del motor.</figcaption></figure>
+<figure><img src="/images/intro-engine-rebuild.jpg" class="thumb-img" alt="Motor BWA durante la reconstrucción tras resolver el problema de la culata"><figcaption>Cableado del motor.</figcaption></figure>
 
 Y ahora la pregunta clave es ¿funcionó y arrancó el motor?, así que la respuesta es no. Entonces, después de investigar más, se pudo determinar que el motor no estaba montado correctamente, las válvulas de un cilindro estaban dobladas y la compresión no era la correcta, por lo que esto impedía que el motor arrancara. Lamentablemente, la culata tuvo que desmontarse y enviarse a rectificar. Después de varios días de espera, la culata estaba de vuelta, por lo que se volvió a ensamblar (esta vez correctamente) y esta vez sí, el motor arrancó.
 

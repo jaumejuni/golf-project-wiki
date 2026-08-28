@@ -1,6 +1,7 @@
 ---
 weight: 40
 title: "Most important providers"
+description: "A rundown of the key suppliers used in this Golf MK3 TFSI swap - Fabless Manufacturing, Epytec, CEIKA and FMIC.eu - and how each one performed."
 ---
 
 # Most important suppliers used in this project

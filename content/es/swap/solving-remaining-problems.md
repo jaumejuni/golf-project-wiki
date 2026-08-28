@@ -1,6 +1,7 @@
 ---
 weight: 25
 title: "Solucionando los problemas pendientes"
+description: "Diagnóstico de un fallo de K-Line compartida entre las unidades de ABS y airbag, y validación del sistema de refrigeración y los internos del motor."
 ---
 
 # Solucionando los problemas pendientes

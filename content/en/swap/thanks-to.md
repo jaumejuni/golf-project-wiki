@@ -1,6 +1,7 @@
 ---
 weight: 30
 title: "Special thanks and contact information"
+description: "Thanks to the people who made this Golf MK3 TFSI swap possible, plus contact details for the mechanic and certification engineer behind the project."
 ---
 
 # Special thanks and contact information

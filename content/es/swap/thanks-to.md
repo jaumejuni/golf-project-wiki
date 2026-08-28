@@ -1,6 +1,7 @@
 ---
 weight: 30
 title: "Agradecimientos e información de contacto"
+description: "Agradecimientos a las personas que hicieron posible este swap TFSI del Golf MK3, además de los datos de contacto del mecánico y el ingeniero homologador."
 ---
 
 # Agradecimientos e información de contacto

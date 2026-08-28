@@ -2,6 +2,7 @@ baseURL = 'https://tfsiswap.magnafacto.com/'
 locale = 'en-US'
 theme = 'hugo-book'
 ignoreFiles = ['\.DS_Store$']
+enableGitInfo = true
 
 [markup]
   [markup.goldmark]
@@ -26,11 +27,15 @@ enableRobotsTXT = false
     contentDir = 'content/es'
     label = 'Español'
     title = 'Swap TFSI (BWA) en un Golf MK3'
+    languageCode = 'es-ES'
     weight = 20
     [languages.es.params]            
     #  disable = true
 
  [params]
+  # Fallback social-share image for pages that don't set their own `images` front matter.
+  images = ['/images/intro-engine-placement.jpg']
+
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'light'

@@ -1,6 +1,7 @@
 ---
 weight: 40
 title: "Proveedores más importantes"
+description: "Un repaso de los proveedores clave usados en este swap TFSI del Golf MK3 - Fabless Manufacturing, Epytec, CEIKA y FMIC.eu - y cómo fue la experiencia con cada uno."
 ---
 
 

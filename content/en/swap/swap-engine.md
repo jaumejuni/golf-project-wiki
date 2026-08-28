@@ -1,6 +1,8 @@
 ---
 weight: 20
 title: "Swap and restoration"
+description: "Full body restoration, brake and axle upgrades, and rebuilding the BWA engine and fitting it into the Golf MK3 with a Fabless Manufacturing kit."
+images: ["/images/engine-02.jpeg"]
 ---
 
 # Engine swap and restoration
@@ -8,7 +10,7 @@ title: "Swap and restoration"
 
 In April 2022, the time came to start disassembling the original Golf engine and prepare the car for the body work and full respray.
 
-<figure><img src="/images/after-paint-10.jpg"><figcaption>Car in the body shop fully painted.</figcaption></figure>
+<figure><img src="/images/after-paint-10.jpg" alt="Golf MK3 GTI fully painted at the body shop after restoration"><figcaption>Car in the body shop fully painted.</figcaption></figure>
 
 In general terms the car was in very good condition; it only had a little rust on the right front wing; the rest was impeccable. And the body shop confirmed it once the panels were removed to start preparing them for respray.
 
@@ -19,7 +21,7 @@ The final result is 2 months of work by the body shop and the left and right fro
 At the end of June 2022 the car was back in the workshop with Marc, and it's time to start messing with the mechanical parts.
 
 ## Front and rear axles
-<figure><img src="/images/front-brakes-toobig-01.jpg"><figcaption>Front brake discs too big.</figcaption></figure>
+<figure><img src="/images/front-brakes-toobig-01.jpg" alt="Oversized CEIKA front brake discs rubbing against the 17-inch wheel"><figcaption>Front brake discs too big.</figcaption></figure>
 
 ### Front axle
 
@@ -33,7 +35,7 @@ In short, the disks were too big. Therefore, I thought of using the 334x32mm dis
 
 My second big mistake was buying the BBK from CEIKA. Their customer service is terrible, and I certainly would not recommend CEIKA to anyone. Today, if I had to buy a BBK for a Golf MK3, I would do it through Epytec; Golf MK4 R32 discs (334x32mm) and ZR17 calipers from Porsche Cayenne or VW Tuareg.
 
-<figure><img src="/images/rear-brakes-02.jpg"><figcaption>Rear breaks with custom adapter.</figcaption></figure>
+<figure><img src="/images/rear-brakes-02.jpg" alt="Rear brakes with the custom Epytec caliper adapter"><figcaption>Rear breaks with custom adapter.</figcaption></figure>
 
 To complete the configuration of the front axle, the following elements were added:
 
@@ -55,7 +57,7 @@ As a bonus, a sway bar has also been added to the rear axle 😀.
 
 
 ## Engine rebuild
-<figure><img src="/images/engine-01.jpeg"><figcaption>Engine before rebuild.</figcaption></figure>
+<figure><img src="/images/engine-01.jpeg" alt="BWA engine before the rebuild"><figcaption>Engine before rebuild.</figcaption></figure>
 
 ### ETKA and the various vehicles used for the swap
 
@@ -66,7 +68,7 @@ Any swap involves finding and assembling parts from more than one vehicle. In th
 + **Golf MK3 GTI**. This is the receiving vehicle, so the parts that have been purchased for this vehicle are mostly bodywork, interior and aesthetics (emblems and anagrams).
 + **Golf MK5 GTI**. This is the donor vehicle. Most of the engine parts belong to this vehicle.
 + **Golf MK4 R32**. References to this vehicle are the front brake discs and the rear brake calipers. Both need custom-made adapters to be able to be mounted on the Golf MK3.
-<figure><img src="/images/before-cylinderhead-01.jpg"><figcaption>Cylinder head before cleaning.</figcaption></figure>
+<figure><img src="/images/before-cylinderhead-01.jpg" alt="BWA cylinder head before cleaning"><figcaption>Cylinder head before cleaning.</figcaption></figure>
 
 ### Engine purchase and rebuild
 
@@ -78,7 +80,7 @@ Marc (the mechanic) disassembled and reassembled it with all the guarantees and 
 
 Another thing that was done was to upgrade the clutch, and it was fitted with a DKM Stage 2 Uprated Clutch + Flywheel Kit for VW Golf V 2.0 GTI.
 
-<figure><img src="/images/engine-02.jpeg"><figcaption>Engine after rebuild with a K04 turbo.</figcaption></figure>
+<figure><img src="/images/engine-02.jpeg" alt="Rebuilt BWA engine fitted with the K04 turbo"><figcaption>Engine after rebuild with a K04 turbo.</figcaption></figure>
 
 ### Positioning of the engine in the bay of the receiving vehicle
 
@@ -94,7 +96,7 @@ In December 2022 we made the first attempt to fit the engine, but it was tilted 
 
 And there was a trick. From [Fabless Manufacturing](https://www.fablessmanufacturing.com/) they clarified that the subframe cups had to be moved. How? Very easy, as this [video](https://www.youtube.com/watch?v=VxRCBlZ3ugI) indicates. In fact, they have recently released the second part of the kit which is a tubular subframe where the cups are properly positioned to fit the engine. However, everything has a price and it's not exactly cheap, but other than that my experience with [Fabless Manufacturing](https://www.fablessmanufacturing.com/) has been great and they have always responded well and quickly. In addition, the quality of their products is unbeatable.
 
-<figure><img src="/images/second-attempt-05.jpg"><figcaption>Second attempt to put the engine.</figcaption></figure>
+<figure><img src="/images/second-attempt-05.jpg" alt="Second attempt to fit the engine after moving the subframe cups"><figcaption>Second attempt to put the engine.</figcaption></figure>
 
 #### Second attempt and final
 
@@ -112,7 +114,7 @@ Another problem that popped up was which intercooler to use. There were 2 option
 + **Original intercooler**. The dimensions of the core of this intercooler are about 615x405x32mm (7.9L and 129cm²). With this height, the intercooler would be very low (below the front spoiler of the Golf MK3) just a few centimeters from the ground, and would also require a significant modification of the engine crossbar. So it was discarded.
 + **Small size intercooler**. We now know that the maximum height of the intercooler is limited to about 20cm by the engine crossbar. As a general rule (see the following [link](https://www.audi-sport.net/xf/threads/best-way-to-calculate-the-size-of-intercooler-required.213538/)) the intercooler must have a volume of 3L and a section of 50cm² for every 100hp of the engine. In our case we are going to take the power of 200hp, and, therefore, the minimum volume and section are: 6L and 100cm². With these data, an intercooler with the following dimensions 550x180x65mm (6.5L and 117cm²) was chosen. To this we must add that the intercooler is made of high quality aluminum alloy.
 
-<figure><img src="/images/second-attempt-06.jpg"><figcaption>Second attempt to put the engine.</figcaption></figure>
+<figure><img src="/images/second-attempt-06.jpg" alt="Engine mounted in the Golf MK3 bay during the second fitting attempt"><figcaption>Second attempt to put the engine.</figcaption></figure>
 
 ### Intake and exhaust lines
 

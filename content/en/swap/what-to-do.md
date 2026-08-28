@@ -1,6 +1,8 @@
 ---
 weight: 10
 title: "What to do with a car over 25 years old?"
+description: "Why I chose to restore my 1996 Golf MK3 GTI with a TFSI engine swap instead of selling it, and the Spanish rules that shaped every decision."
+images: ["/images/beginning-noplate-01.jpg"]
 ---
 
 # What to do with a car over 25 years old?
@@ -9,7 +11,7 @@ title: "What to do with a car over 25 years old?"
 
 I bought this car (my first car), a Golf MK3 GTI, in 1996, and I have always had a special affection for it. I have made many trips with it and have enjoyed unforgettable moments, but now I have to decide what to do. Thinking about it quickly, there are 2 simple answers:
 
-<figure><img src="/images/beginning-03.jpg"><figcaption>Original engine: ADY 2.0L 8V 115hp.</figcaption></figure>
+<figure><img src="/images/beginning-03.jpg" alt="Original Golf MK3 GTI ADY 2.0L 8V 115hp engine"><figcaption>Original engine: ADY 2.0L 8V 115hp.</figcaption></figure>
 
 1. Retire it with full honors for the services rendered.
 2. Restore it so it looks like in showroom condition again.
@@ -26,7 +28,7 @@ All this is not fast or cheap; in fact it is much cheaper to buy a second-hand G
 
 The plan is simple, swap the engine and make it road legal, so it can circulate through the Spanish roads.
 
-<figure><img src="/images/beginning-noplate-01.jpg"><figcaption>Front view of the car before starting.</figcaption></figure>
+<figure><img src="/images/beginning-noplate-01.jpg" alt="Front view of the Golf MK3 GTI before the engine swap project began"><figcaption>Front view of the car before starting.</figcaption></figure>
 
 Going a bit more into detail, this means:
 
@@ -49,7 +51,7 @@ From the beginning, I was lucky to have:
 
 First and foremost, this is neither an exhaustive nor an exact list. The regulations are complex and can change. Therefore, as I mentioned before, it is essential to have a specialized car engineer to guide and take you throughout the entire project.
 
-<figure><img src="/images/first-attempt-03.jpg"><figcaption>First attempt to fit the engine.</figcaption></figure>
+<figure><img src="/images/first-attempt-03.jpg" alt="First attempt to fit the Golf MK5 GTI BWA engine into the Golf MK3 engine bay"><figcaption>First attempt to fit the engine.</figcaption></figure>
 
 Having said this, the basic rules to be able to certify swaps in Spain are:
 

@@ -1,6 +1,7 @@
 ---
 weight: 28
 title: "Conclusiones"
+description: "Lecciones aprendidas tras años construyendo el swap TFSI del Golf MK3: por qué implicar a un ingeniero desde el principio, elegir bien el taller y esperar que lleve tiempo."
 ---
 
 # Conclusiones

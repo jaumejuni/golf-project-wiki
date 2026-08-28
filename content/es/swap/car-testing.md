@@ -1,11 +1,13 @@
 ---
 weight: 24
 title: "Prueba del coche"
+description: "Cómo se comportó el swap TFSI del Golf MK3 en carretera y banco de potencia: ajuste de la ECU, calibración Stage 3 y el resultado final de 273,2 CV y 445 Nm."
+images: ["/images/golf-dyno.jpeg"]
 ---
 
 # Prueba del coche
 
-# Primera prueba
+## Primera prueba
 <figure class="flow-figure right stack same-width"><video controls><source src="/images/car-testing-first-test-01.webm" type="video/webm"></video></figure>
 El motor se puso en marcha por primera vez en junio de 2024. Después de eso, hubo que realizar un montón de trabajo en el sistema hidráulico, la dirección y los frenos. Además, y para hacer las cosas más interesantes, falló el cilindro del embrague esclavo (¡era completamente nuevo!) y la unión entre el motor y la caja de cambios tenía una fuga. Como resultado, hubo que parar el motor y la caja de cambios y reemplazar el cilindro del embrague esclavo por uno nuevo. Mucho trabajo, pero aprovechamos la oportunidad para asegurarnos de que todo estuviera correctamente montado para evitar más sorpresas.
 
@@ -17,11 +19,11 @@ Hay que tener en cuenta que el coche no ha pasado la ITV en los últimos 3 años
 La idea, una vez que el taller termine el coche en los próximos días, es llevarlo a una carretera cerrada para probarlo y ver cómo se comporta. Por el momento, estamos muy emocionados por ver cómo se mueve el coche.
 
 
-# Pruebas adicionales
+## Pruebas adicionales
 <!-- <figure class="flow-figure right stack same-width"><img src="/images/tunning-03.jpg"></figure> -->
 
 Las primeras pruebas en carretera no salieron bien. El motor funcionaba de forma irregular y pronto descubrimos una desincronización entre el software de la ECU y las modificaciones del motor. Esto era de esperar, ya que habíamos introducido modificaciones personalizadas: turbocompresor K04, sensor MAP de 3 bares e inyectores S3.
-<figure class="flow-figure right stack same-width"><img src="/images/tunning-02.jpg"></figure>
+<figure class="flow-figure right stack same-width"><img src="/images/tunning-02.jpg" alt="Sesión de ajuste de la ECU durante el diagnóstico del funcionamiento irregular"></figure>
 
 Nuestra solución fue descargar una imagen flash original de BWA (compatible con nuestro hardware de ECU) y usar ecufiles.com para crear una reprogramación de Etapa 3 con el turbocompresor K04, el ajuste del sensor MAP y el ajuste de los inyectores de combustible. Pero no funcionó: el motor seguía funcionando de forma irregular.
 
@@ -36,7 +38,7 @@ El proceso de ajuste requirió más de veinte pasadas por el banco de potencia, 
 
 La siguiente gráfica muestra la última pasada por el banco.
 
-<figure class="flow-figure full-width"><img src="/images/golf-dyno.jpeg"></figure>
+<figure class="flow-figure full-width"><img src="/images/golf-dyno.jpeg" alt="Gráfica del banco de potencia de la pasada final: 273,2 CV y 445 Nm"></figure>
 
 El resultado final fue de **273,2 CV y 445 Nm**.
 

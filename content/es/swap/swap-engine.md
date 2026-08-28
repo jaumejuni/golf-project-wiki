@@ -1,6 +1,8 @@
 ---
 weight: 20
 title: "Swap y restauración"
+description: "Restauración completa de la carrocería, mejoras de frenos y ejes, y reconstrucción del motor BWA e instalación en el Golf MK3 con un kit de Fabless Manufacturing."
+images: ["/images/engine-02.jpeg"]
 ---
 
 # Swap de motor y restauración
@@ -8,7 +10,7 @@ title: "Swap y restauración"
 
 En abril de 2022 llegó el momento de empezar a desmontar el motor original del Golf y preparar el coche para el trabajo de carrocería y restauración completa.
 
-<figure><img src="/images/after-paint-10.jpg"><figcaption>Aspecto después de pintar el coche</figcaption></figure>
+<figure><img src="/images/after-paint-10.jpg" alt="Golf MK3 GTI totalmente pintado en el taller de carrocería tras la restauración"><figcaption>Aspecto después de pintar el coche</figcaption></figure>
 
 En términos generales el coche estaba en muy buenas condiciones, solo tenía un poco de óxido en la aleta delantera derecha, el resto estaba impecable. Y el taller lo confirmó una vez que se quitaron los paneles para empezar a prepararlos para el repintado.
 
@@ -20,7 +22,7 @@ A finales de junio de 2022 el coche está de vuelta al taller de Marc (el mecán
 
 ## Eje delantero y trasero
 
-<figure><img src="/images/front-brakes-toobig-01.jpg"><figcaption>Discos delanteros demasiado grandes</figcaption></figure>
+<figure><img src="/images/front-brakes-toobig-01.jpg" alt="Discos delanteros CEIKA sobredimensionados rozando con la llanta de 17 pulgadas"><figcaption>Discos delanteros demasiado grandes</figcaption></figure>
 
 ### Eje delantero
 
@@ -34,7 +36,7 @@ En definitiva, los discos eran demasiado grandes. Así que pensé en utilizar lo
 
 Mi segundo gran error fue comprar el BBK de CEIKA. Su servicio de atención al cliente es pésimo, y desde luego no recomendaría CEIKA a nadie. Hoy en día, si tuviera que comprar un BBK para un Golf MK3 lo haría a través de Epytec: discos Golf MK4 R32 (334x32mm) y pinzas ZR17 de Porsche Cayenne o VW Tuareg.
 
-<figure><img src="/images/rear-brakes-02.jpg"><figcaption>Frenos traseros.</figcaption></figure>
+<figure><img src="/images/rear-brakes-02.jpg" alt="Frenos traseros con el adaptador de pinza personalizado de Epytec"><figcaption>Frenos traseros.</figcaption></figure>
 
 Para completar la configuración del eje delantero, se añadieron los siguientes elementos:
 
@@ -56,7 +58,7 @@ Como extra, también se ha añadido una barra estabilizadora al eje trasero 😀
 
 ## Reconstrucción de motor
 
-<figure><img src="/images/engine-01.jpeg"><figcaption>Motor antes de la reconstrucción.</figcaption></figure>
+<figure><img src="/images/engine-01.jpeg" alt="Motor BWA antes de la reconstrucción"><figcaption>Motor antes de la reconstrucción.</figcaption></figure>
 
 ### ETKA y los distintos vehículos utilizados para el swap
 
@@ -68,7 +70,7 @@ Cualquier swap implica encontrar y montar piezas de más de un vehículo. En est
 + **Golf MK5 GTI**. Este es el vehículo donante. La mayoría de las piezas de motor pertenecen a este vehículo.
 + **Golf MK4 R32**. Las referencias a este vehículo son los discos de freno delanteros y las pinzas de freno traseras. Ambos necesitan adaptadores hechos a medida para poder montarlos en el Golf MK3.
 
-<figure><img src="/images/before-cylinderhead-01.jpg"><figcaption>Culata antes de limpiarla.</figcaption></figure>
+<figure><img src="/images/before-cylinderhead-01.jpg" alt="Culata del motor BWA antes de limpiarla"><figcaption>Culata antes de limpiarla.</figcaption></figure>
 
 ### Compra y reconstrucción del motor
 
@@ -80,7 +82,7 @@ Marc (el mecánico) lo desmontó y volvió a montar con todas las garantías y l
 
 Otra cosa que se hizo fue actualizar el embrague, y se le montó un Kit de embrague + volante de inercia DKM Stage 2 Uprated para VW Golf V 2.0 GTI.
 
-<figure><img src="/images/engine-02.jpeg"><figcaption>Motor tras la reconstrucción.</figcaption></figure>
+<figure><img src="/images/engine-02.jpeg" alt="Motor BWA reconstruido con el turbo K04 instalado"><figcaption>Motor tras la reconstrucción.</figcaption></figure>
 
 ### Colocación del motor en el vano del vehículo receptor
 
@@ -96,7 +98,7 @@ En diciembre de 2022 hicimos el primer intento de montar el motor, pero estaba i
 
 Y había truco. Desde [Fabless Manufacturing](https://www.fablessmanufacturing.com/) nos aclararon que había que mover las copas del subchasis. ¿Cómo? Muy fácil, como indica este [vídeo](https://www.youtube.com/watch?v=VxRCBlZ3ugI). De hecho, recientemente han sacado la segunda parte del kit que es un subchasis tubular donde se colocan las copas correctamente para montar el motor. No obstante, todo tiene un precio y no es precisamente barato, pero por lo demás mi experiencia con [Fabless Manufacturing](https://www.fablessmanufacturing.com/) ha sido genial y siempre han respondido bien y rápido. Además la calidad de sus productos es inmejorable.
 
-<figure><img src="/images/second-attempt-05.jpg"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
+<figure><img src="/images/second-attempt-05.jpg" alt="Segundo intento de montar el motor tras mover las copas del subchasis"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
 
 #### Segundo intento y definitivo
 
@@ -114,7 +116,7 @@ Otro problema que se nos presentó fue qué intercooler utilizar. Había 2 opcio
 + **Intercooler original**. Las dimensiones del núcleo de este intercooler son de unos 615x405x32mm (7,9L y 129cm²). Con esta altura, el intercooler quedaría muy bajo (debajo del alerón delantero del Golf MK3) a apenas unos centímetros del suelo, y además requeriría una modificación importante del travesaño del motor. Así que se descartó.
 + **Intercooler de tamaño reducido**. Ahora ya sabemos que la altura máxima del intercooler está limitada a unos 20cm por el travesaño del motor. Como norma general (ver el siguiente [enlace](https://www.audi-sport.net/xf/threads/best-way-to-calculate-the-size-of-intercooler-required.213538/)) el intercooler debe tener un volumen de 3L y una sección de 50cm² por cada 100cv del motor. En nuestro caso vamos a coger la potencia de 200cv, y, por tanto, el volumen y la sección mínima son: 6L y 100cm². Con estos datos se ha elegido un intercooler con las siguientes dimensiones 550x180x65mm (6,5L y 117cm²). A esto hay que añadir que el intercooler está fabricado en aleación de aluminio de alta calidad.
 
-<figure><img src="/images/second-attempt-06.jpg"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
+<figure><img src="/images/second-attempt-06.jpg" alt="Motor montado en el vano del Golf MK3 durante el segundo intento"><figcaption>Segundo intento de poner el motor.</figcaption></figure>
 
 ## Conductos de admisión y escape
 
