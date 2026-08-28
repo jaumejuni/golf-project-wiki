@@ -27,7 +27,7 @@ enableRobotsTXT = false
     contentDir = 'content/es'
     label = 'Español'
     title = 'Swap TFSI (BWA) en un Golf MK3'
-    languageCode = 'es-ES'
+    locale = 'es-ES'
     weight = 20
     [languages.es.params]            
     #  disable = true
