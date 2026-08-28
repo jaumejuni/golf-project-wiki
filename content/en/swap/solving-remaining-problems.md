@@ -101,43 +101,33 @@ Naturally, temperatures will continue to be monitored once the car is being driv
 
 The other question raised by the K04 conversion was whether it made sense to strengthen the BWA internally.
 
-The obvious modification would be to install forged connecting rods and pistons, and we spent some time investigating what would be required if we eventually decided to do it.
+The obvious modification would be to install forged connecting rods and pistons, and we spent some time investigating what would be required.
 
-One possible configuration would use **Wössner forged EA113 pistons**, with an approximately 9.8:1 compression ratio and 21 mm wrist pins, combined with **FCP Engineering 144 × 21 mm X-beam connecting rods**, wrist-pin oiling and ARP2000 bolts.
-
-If we ever take this route, the final piston diameter would only be selected after measuring the block. There would be no reason to unnecessarily increase the bore if the condition of the cylinders allows the standard 82.5 mm size to be retained.
+One possible configuration would use **Wössner forged EA113 pistons**, with an approximately 9.8:1 compression ratio and 21 mm wrist pins, combined with **FCP Engineering 144 × 21 mm X-beam connecting rods**, wrist-pin oiling and ARP2000 bolts. The final piston diameter will only be selected after measuring the block — there is no reason to unnecessarily increase the bore if the condition of the cylinders allows the standard 82.5 mm size to be retained.
 
 However, the really important question was not *what forged components could we install?*
 
 It was:
 
-> **Do we actually need them?**
+> **Do we need them now, or can they wait?**
 
-The engine was machined as part of the conversion and the relevant components had very little use. More importantly, the K04 is not calibrated anywhere near the maximum torque that this type of setup can produce.
+The engine was machined as part of the conversion and the relevant components had very little use. The calibration has also been extensively tested on the dyno — more than twenty runs, including repeated high-load and high-RPM pulls, with **knock, lambda, load, boost pressure and temperatures** monitored throughout — with no indication of the standard internals being overstressed.
 
-The final ECU calibration produces approximately **325 Nm of maximum torque**.
+The final ECU calibration produces approximately **440 Nm of maximum torque**.
 
 The rest of the drivetrain has deliberately been specified with considerably greater capacity:
 
-- **Maximum engine torque:** ~325 Nm
+- **Maximum engine torque:** ~440 Nm
 
-- **Stage 2 clutch:** ~415 Nm
+- **Stage 2 clutch:** ~705 Nm
 
 - **Custom CV joints:** ~700 Nm
 
-The clutch therefore provides approximately a **28% margin** over the current maximum engine torque, while the custom CV joints have a considerably larger margin.
+The clutch therefore provides approximately a **60% margin** over the current maximum engine torque, while the custom CV joints provide a broadly similar margin.
 
-This means that the current configuration is not intended to extract the maximum possible performance from the K04. The objective is a fast road car with good reliability and comfortable mechanical margins.
+That answers the near-term question: the standard internals are coping well with 440 Nm right now. But this is a meaningful step up from the stock BWA, and running that kind of torque on stock pistons and rods indefinitely is not something we are comfortable with long-term.
 
-The calibration itself has also been extensively tested on the dyno. Parameters such as **knock, lambda, load, boost pressure and temperatures** were monitored during development of the software, including the repeated high-load testing described above.
-
-For this reason, we concluded that **opening a recently assembled, machined and properly functioning engine simply to install forged internals does not currently make sense**.
-
-This does not mean that forged internals have been permanently discarded.
-
-If the engine ever needs to be opened in the future, or if we decide to substantially increase the torque, fitting forged pistons and connecting rods would be a logical upgrade at that point.
-
-For the current **325 Nm calibration**, however, the standard BWA internals remain.
+Our conclusion, therefore, is that **the current internals are fine for now, but forged internals are a mid-term upgrade we consider necessary, not optional** — a planned step for the next time the engine is opened, rather than a reaction to a failure.
 
 ## Where we are now
 
@@ -149,8 +139,8 @@ The ABS was eventually diagnosed correctly and the unit itself was confirmed to 
 
 The cooling system was subjected to repeated high-load dyno testing and demonstrated that the deliberately oversized radiator, fan and intercooler package works as intended.
 
-And after assessing the engine internals according to **the actual load we are asking the engine to produce**, rather than simply looking at what a K04 is capable of producing, we decided that there is currently no technical justification for opening the engine and replacing components that are working correctly.
+And after assessing the engine internals according to **the actual load we are asking the engine to produce**, we concluded that the standard components are coping well for now, but that forged pistons and connecting rods are a mid-term upgrade we plan to carry out rather than an optional extra.
 
-At this stage, therefore, the objective is no longer to keep modifying the car.
+At this stage, therefore, the immediate objective is no longer to keep modifying the car.
 
-It is to **install the replacement ABS, complete the final checks and start driving it**.
+It is to **install the replacement ABS, complete the final checks and start driving it** — with the forged-internals upgrade planned as a separate mid-term step.

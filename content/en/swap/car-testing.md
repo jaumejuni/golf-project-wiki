@@ -32,4 +32,4 @@ This time, we did not take chances. We sent the car to a professional tuner for 
 Here is a tuning run with us monitoring the parameters:
 
 
-The final figures (we wanted to be conservative) came in at 272hp and 440 Nm.
+The final figures (we wanted to be conservative) came in at 274hp and 440 Nm.

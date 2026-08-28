@@ -29,7 +29,7 @@ Among the most important changes are:
 
 The important point, however, is that the objective was never to extract the maximum possible output from the K04.
 
-The final calibration produces approximately **325 Nm of maximum torque**, leaving a considerable margin compared with what a more aggressive K04 setup could produce.
+The final calibration produces approximately **440 Nm of maximum torque**, leaving a considerable margin compared with what a more aggressive K04 setup could produce.
 
 This was a deliberate decision.
 
@@ -43,19 +43,15 @@ From this point of view, the engine configuration is not simply theoretically co
 
 The installation of the K04 naturally raised the question of whether the standard BWA internals should also be replaced.
 
-We investigated a possible forged configuration using **Wössner EA113 pistons** and **FCP Engineering X-beam connecting rods**, but ultimately decided not to open the engine.
+We investigated a possible forged configuration using **Wössner EA113 pistons** and **FCP Engineering X-beam connecting rods**, and concluded that forged internals are the right upgrade for this engine — just not immediately.
 
-There were several reasons.
+The engine had already been machined during the conversion, the relevant components had very little use, and the current calibration has already been validated across more than twenty dyno runs, including repeated high-load and high-RPM pulls, without any sign of knock, fuelling or thermal issues.
 
-The engine had already been machined during the conversion, the relevant components had very little use, and most importantly the current calibration is deliberately conservative in terms of torque.
+At approximately **440 Nm**, the standard internals are holding up well for now. But this is a meaningful step up from the stock BWA, and for a setup expected to run at this torque level over the long term, forged pistons and connecting rods are a reliability upgrade we consider necessary rather than optional.
 
-At approximately **325 Nm**, the engine is not being asked to operate anywhere near the more aggressive torque levels possible with a K04.
+Opening a recently assembled and properly functioning engine before it actually needs it, however, did not seem justified.
 
-Opening a recently assembled and properly functioning engine simply because forged components exist therefore did not seem justified.
-
-If the engine needs to be opened in the future, or if considerably more torque is required, forged pistons and connecting rods remain a logical future upgrade.
-
-For the current configuration, however, the standard BWA internals were considered appropriate.
+The plan is therefore to run the current internals in the near term, and to fit the forged pistons and connecting rods as a scheduled mid-term upgrade — a planned reliability step, not a reaction to a failure.
 
 ## Gearbox and drivetrain
 
@@ -67,21 +63,21 @@ The engine and gearbox are installed using a **Fabless Manufacturing conversion 
 
 Clearances have been checked and tested with the complete installation.
 
-The clutch was also upgraded to a **Stage 2 unit rated to approximately 415 Nm**.
+The clutch was also upgraded to a **Stage 2 unit rated to approximately 705 Nm**.
 
-With the engine currently producing around 325 Nm, this gives approximately 28% nominal torque margin.
+With the engine currently producing around 440 Nm, this gives approximately 60% nominal torque margin.
 
-The CV joints were custom made for the conversion and are rated to approximately **700 Nm**, providing an even larger margin.
+The CV joints were custom made for the conversion and are rated to approximately **700 Nm**, providing a broadly similar margin.
 
 The resulting hierarchy is therefore:
 
-- **Engine:** ~325 Nm
-- **Clutch:** ~415 Nm
+- **Engine:** ~440 Nm
+- **Clutch:** ~705 Nm
 - **CV joints:** ~700 Nm
 
 This is exactly the type of relationship we wanted.
 
-Rather than having one component operating close to its limit, the components downstream of the engine have been selected with increasing capacity.
+Rather than having one component operating close to its limit, the components downstream of the engine have been selected with comfortable capacity margins over the engine.
 
 ## Thermal management
 
@@ -202,22 +198,22 @@ And instead of attempting to make a 1996 Golf electrically behave like a Mk5, th
 
 There are also deliberate engineering margins throughout the car.
 
-The engine produces around **325 Nm**, while the clutch is rated to approximately 415 Nm and the custom CV joints to approximately 700 Nm.
+The engine produces around **440 Nm**, while the clutch is rated to approximately 705 Nm and the custom CV joints to approximately 700 Nm.
 
 The cooling system has demonstrated substantial thermal capacity during repeated dyno testing.
 
 The brakes and suspension have considerably more capability than the original Mk3 components.
 
-This does not mean that the car is completely validated.
+This does not mean that the car is completely validated, or that every part of the design is finished.
 
 The replacement ABS still needs to be installed and tested, and once the car returns to the road the suspension, alignment and braking behaviour will need to be evaluated dynamically.
 
 It would also be useful to obtain actual four-corner weights rather than continuing to rely on calculated values.
 
-But these are now **commissioning and setup tasks**, rather than fundamental changes to the design.
+Most of these are **commissioning and setup tasks** rather than fundamental changes to the design. The one exception is the engine internals: the standard BWA pistons and rods are holding up well at the current 440 Nm, but fitting forged internals is a planned mid-term upgrade rather than an optional one, given the torque the engine is now producing long-term.
 
-Perhaps the most important conclusion from the assessment is therefore that there is currently very little reason to continue adding modifications.
+Perhaps the most important conclusion from the assessment is therefore that, aside from that scheduled internals upgrade, there is currently very little reason to continue adding modifications.
 
 The components are already there.
 
-The next stage is to **finish the remaining details, set the car up properly, and finally use it**.
+The next stage is to **finish the remaining details, set the car up properly, and start using it** — with the forged internals upgrade lined up as the next mechanical step.

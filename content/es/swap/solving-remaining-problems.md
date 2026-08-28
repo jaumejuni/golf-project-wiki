@@ -101,43 +101,33 @@ Naturalmente, seguiremos controlando las temperaturas cuando el coche vuelva a u
 
 La otra cuestión que surgió con la conversión a K04 fue si tenía sentido reforzar internamente el BWA.
 
-La modificación más evidente sería instalar bielas y pistones forjados, y dedicamos algún tiempo a estudiar qué sería necesario si finalmente decidiéramos hacerlo.
+La modificación más evidente sería instalar bielas y pistones forjados, y dedicamos algún tiempo a estudiar qué sería necesario.
 
-Una posible configuración utilizaría **pistones forjados Wössner para EA113**, con una relación de compresión aproximada de 9.8:1 y bulones de 21 mm, combinados con **bielas FCP Engineering X-beam de 144 × 21 mm**, lubricación del bulón y tornillos ARP2000.
-
-Si algún día optamos por esta solución, el diámetro final de los pistones únicamente se decidiría después de medir el bloque. No tendría sentido aumentar innecesariamente el diámetro si el estado de los cilindros permite mantener la medida estándar de 82.5 mm.
+Una posible configuración utilizaría **pistones forjados Wössner para EA113**, con una relación de compresión aproximada de 9.8:1 y bulones de 21 mm, combinados con **bielas FCP Engineering X-beam de 144 × 21 mm**, lubricación del bulón y tornillos ARP2000. El diámetro final de los pistones únicamente se decidirá después de medir el bloque; no tendría sentido aumentar innecesariamente el diámetro si el estado de los cilindros permite mantener la medida estándar de 82.5 mm.
 
 Sin embargo, la pregunta realmente importante no era *qué componentes forjados podríamos instalar*.
 
 Era:
 
-> **¿Realmente los necesitamos?**
+> **¿Los necesitamos ahora, o pueden esperar?**
 
-El motor fue mecanizado como parte de la conversión y los componentes relevantes tenían muy poco uso. Más importante todavía, el K04 no está calibrado cerca del máximo par que puede llegar a producir una configuración de este tipo.
+El motor fue mecanizado como parte de la conversión y los componentes relevantes tenían muy poco uso. La calibración también se ha probado extensamente en el banco de potencia —más de veinte lanzadas, incluyendo repetidas pruebas a alta carga y altas revoluciones, con **knock, lambda, carga, presión de sobrealimentación y temperaturas** monitorizados en todo momento— sin ningún indicio de que los componentes internos de serie estén sobrecargados.
 
-La calibración final de la ECU produce aproximadamente **325 Nm de par máximo**.
+La calibración final de la ECU produce aproximadamente **440 Nm de par máximo**.
 
 El resto de la transmisión se ha dimensionado deliberadamente con una capacidad considerablemente superior:
 
-- **Par máximo del motor:** ~325 Nm
+- **Par máximo del motor:** ~440 Nm
 
-- **Embrague Stage 2:** ~415 Nm
+- **Embrague Stage 2:** ~705 Nm
 
 - **Juntas homocinéticas a medida:** ~700 Nm
 
-El embrague dispone, por tanto, de aproximadamente un **28% de margen** sobre el par máximo actual del motor, mientras que las juntas homocinéticas tienen un margen todavía mucho mayor.
+El embrague dispone, por tanto, de aproximadamente un **60% de margen** sobre el par máximo actual del motor, mientras que las juntas homocinéticas ofrecen un margen similar.
 
-Esto significa que la configuración actual no pretende extraer el máximo rendimiento posible del K04. El objetivo es disponer de un coche rápido para carretera, con buena fiabilidad y márgenes mecánicos cómodos.
+Esto responde a la pregunta a corto plazo: los componentes internos de serie están respondiendo bien a los 440 Nm actuales. Pero esto supone un salto significativo respecto a la cifra original del BWA, y mantener ese nivel de par de forma indefinida sobre pistones y bielas de serie no es algo con lo que estemos cómodos a largo plazo.
 
-La propia calibración también se ha probado extensamente en el banco de potencia. Durante el desarrollo del software se monitorizaron parámetros como el **knock, lambda, carga, presión de sobrealimentación y temperaturas**, incluyendo las repetidas pruebas a alta carga descritas anteriormente.
-
-Por este motivo llegamos a la conclusión de que **abrir un motor recién montado, mecanizado y que funciona correctamente únicamente para instalar componentes internos forjados no tiene sentido actualmente**.
-
-Esto no significa que hayamos descartado definitivamente los componentes forjados.
-
-Si en el futuro fuera necesario abrir el motor, o si decidiéramos aumentar sustancialmente el par, instalar pistones y bielas forjados sería una evolución lógica en ese momento.
-
-Sin embargo, con la calibración actual de **325 Nm**, se mantienen los componentes internos originales del BWA.
+Nuestra conclusión, por tanto, es que **los componentes internos actuales están bien por ahora, pero instalar componentes forjados es una mejora a medio plazo que consideramos necesaria, no opcional**: un paso planificado para la próxima vez que se abra el motor, no una reacción a un fallo.
 
 ## Situación actual
 
@@ -149,8 +139,8 @@ El ABS pudo finalmente diagnosticarse correctamente y se confirmó que la propia
 
 El sistema de refrigeración fue sometido a repetidas pruebas de alta carga en el banco de potencia y demostró que el conjunto deliberadamente sobredimensionado de radiador, ventiladores e intercooler funciona como estaba previsto.
 
-Y después de analizar los componentes internos del motor teniendo en cuenta **la carga real que estamos solicitando al motor**, en lugar de limitarnos a considerar lo que un K04 podría llegar a producir, decidimos que actualmente no existe ninguna justificación técnica para abrir el motor y sustituir componentes que funcionan correctamente.
+Y después de analizar los componentes internos del motor teniendo en cuenta **la carga real que estamos solicitando al motor**, concluimos que los componentes de serie están respondiendo bien por ahora, pero que instalar pistones y bielas forjados es una mejora a medio plazo que tenemos previsto llevar a cabo, no una opción secundaria.
 
-Por tanto, llegados a este punto, el objetivo ya no es seguir modificando el coche.
+Por tanto, llegados a este punto, el objetivo inmediato ya no es seguir modificando el coche.
 
-Es **instalar el nuevo ABS, realizar las últimas comprobaciones y empezar a conducirlo**.
+Es **instalar el nuevo ABS, realizar las últimas comprobaciones y empezar a conducirlo**, dejando la actualización de los internos forjados planificada como siguiente paso mecánico a medio plazo.

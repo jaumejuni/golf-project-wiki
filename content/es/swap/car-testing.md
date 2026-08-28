@@ -34,4 +34,4 @@ Esta vez, no quisimos arriesgarnos. Llevamos el coche a un taller especializado 
 
 Aquí tenéis una prueba de reprogramación en la que monitorizamos los parámetros:
 
-Las cifras finales (para ser prudentes) fueron de 272 CV y 440 Nm
+Las cifras finales (para ser prudentes) fueron de 274 CV y 440 Nm

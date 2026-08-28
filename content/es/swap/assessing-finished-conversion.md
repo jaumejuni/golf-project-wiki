@@ -33,7 +33,7 @@ Entre los cambios más importantes están:
 
 Sin embargo, el punto importante es que el objetivo nunca fue extraer el máximo rendimiento posible del K04.
 
-La calibración final produce aproximadamente **325 Nm de par máximo**, dejando un margen considerable respecto a lo que podría producir una configuración K04 más agresiva.
+La calibración final produce aproximadamente **440 Nm de par máximo**, dejando un margen considerable respecto a lo que podría producir una configuración K04 más agresiva.
 
 Esta fue una decisión deliberada.
 
@@ -47,19 +47,15 @@ Desde este punto de vista, la configuración del motor no es simplemente correct
 
 La instalación del K04 planteó naturalmente la cuestión de si también debían sustituirse los componentes internos originales del BWA.
 
-Estudiamos una posible configuración forjada utilizando **pistones Wössner para EA113** y **bielas FCP Engineering X-beam**, pero finalmente decidimos no abrir el motor.
+Estudiamos una posible configuración forjada utilizando **pistones Wössner para EA113** y **bielas FCP Engineering X-beam**, y llegamos a la conclusión de que los componentes forjados son la evolución correcta para este motor, aunque no de forma inmediata.
 
-Había varias razones.
+El motor ya había sido mecanizado durante la conversión, los componentes relevantes tenían muy poco uso, y la calibración actual ya ha sido validada con más de veinte lanzadas en banco, incluyendo repetidas pruebas a alta carga y altas revoluciones, sin ningún indicio de knock, problemas de alimentación o térmicos.
 
-El motor ya había sido mecanizado durante la conversión, los componentes relevantes tenían muy poco uso y, lo más importante, la calibración actual es deliberadamente conservadora en términos de par.
+Con aproximadamente **440 Nm**, los componentes internos de serie están respondiendo bien por ahora. Pero esto supone un salto significativo respecto a la cifra original del BWA, y para una configuración que va a mantener este nivel de par a largo plazo, instalar pistones y bielas forjados es una mejora de fiabilidad que consideramos necesaria y no opcional.
 
-Con aproximadamente **325 Nm**, no estamos pidiendo al motor que trabaje cerca de los niveles de par más agresivos que puede producir una configuración con K04.
+Sin embargo, abrir un motor recién montado y que funciona correctamente antes de que realmente lo necesite no nos pareció justificado.
 
-Por tanto, no parecía justificado abrir un motor recién montado y que funciona correctamente simplemente porque existen componentes forjados disponibles.
-
-Si en el futuro fuera necesario abrir el motor, o si quisiéramos aumentar considerablemente el par, instalar pistones y bielas forjados seguiría siendo una evolución lógica.
-
-Para la configuración actual, sin embargo, los componentes internos originales del BWA se consideran adecuados.
+El plan, por tanto, es seguir utilizando los componentes internos actuales a corto plazo, e instalar los pistones y bielas forjados como una mejora programada a medio plazo: un paso de fiabilidad planificado, no una reacción a un fallo.
 
 ## Caja de cambios y transmisión
 
@@ -71,23 +67,23 @@ El motor y la caja de cambios están instalados utilizando un **kit de conversi�
 
 Las holguras se han comprobado y probado con la instalación completa.
 
-El embrague también se sustituyó por una unidad **Stage 2 con una capacidad aproximada de 415 Nm**.
+El embrague también se sustituyó por una unidad **Stage 2 con una capacidad aproximada de 705 Nm**.
 
-Con el motor produciendo actualmente unos 325 Nm, esto proporciona aproximadamente un 28% de margen nominal de par.
+Con el motor produciendo actualmente unos 440 Nm, esto proporciona aproximadamente un 60% de margen nominal de par.
 
-Las juntas homocinéticas fueron fabricadas a medida para la conversión y tienen una capacidad aproximada de **700 Nm**, proporcionando un margen todavía mayor.
+Las juntas homocinéticas fueron fabricadas a medida para la conversión y tienen una capacidad aproximada de **700 Nm**, proporcionando un margen similar.
 
 La relación resultante es, por tanto:
 
-- **Motor:** ~325 Nm
+- **Motor:** ~440 Nm
 
-- **Embrague:** ~415 Nm
+- **Embrague:** ~705 Nm
 
 - **Juntas homocinéticas:** ~700 Nm
 
 Este es exactamente el tipo de relación que buscábamos.
 
-En lugar de tener algún componente trabajando cerca de su límite, los elementos situados después del motor en la cadena cinemática han sido seleccionados con una capacidad progresivamente superior.
+En lugar de tener algún componente trabajando cerca de su límite, los elementos situados después del motor en la cadena cinemática han sido seleccionados con márgenes de capacidad amplios sobre el motor.
 
 ## Gestión térmica
 
@@ -213,22 +209,22 @@ Y en lugar de intentar que un Golf de 1996 se comportara eléctricamente como un
 
 Además, existen márgenes de diseño deliberados en diferentes partes del coche.
 
-El motor produce aproximadamente **325 Nm**, mientras que el embrague está especificado para unos 415 Nm y las juntas homocinéticas fabricadas a medida para aproximadamente 700 Nm.
+El motor produce aproximadamente **440 Nm**, mientras que el embrague está especificado para unos 705 Nm y las juntas homocinéticas fabricadas a medida para aproximadamente 700 Nm.
 
 El sistema de refrigeración ha demostrado una capacidad térmica considerable durante las repetidas pruebas en banco.
 
 Los frenos y la suspensión tienen una capacidad muy superior a los componentes originales del Mk3.
 
-Esto no significa que el coche esté completamente validado.
+Esto no significa que el coche esté completamente validado, ni que todos los aspectos del diseño estén cerrados.
 
 Todavía es necesario instalar y probar el ABS de recambio y, una vez que el coche vuelva a circular, será necesario evaluar dinámicamente la suspensión, la alineación y el comportamiento de los frenos.
 
 También sería interesante obtener los pesos reales de las cuatro ruedas en lugar de continuar basándonos únicamente en valores calculados.
 
-Pero estas son ya **tareas de puesta a punto y validación**, no cambios fundamentales en el diseño.
+La mayoría de estas son **tareas de puesta a punto y validación**, no cambios fundamentales en el diseño. La excepción son los componentes internos del motor: los pistones y bielas de serie del BWA están respondiendo bien a los 440 Nm actuales, pero instalar componentes forjados es una mejora programada a medio plazo, no opcional, dado el par que el motor va a mantener a largo plazo.
 
-Quizás la conclusión más importante de toda esta evaluación sea, por tanto, que actualmente existen muy pocos motivos para seguir añadiendo modificaciones.
+Quizás la conclusión más importante de toda esta evaluación sea, por tanto, que, al margen de esa mejora de los internos ya prevista, actualmente existen muy pocos motivos para seguir añadiendo modificaciones.
 
 Los componentes ya están instalados.
 
-La siguiente fase consiste en **terminar los últimos detalles, poner el coche a punto correctamente y, finalmente, empezar a utilizarlo**.
+La siguiente fase consiste en **terminar los últimos detalles, poner el coche a punto correctamente y empezar a utilizarlo**, con la actualización de los internos forjados prevista como siguiente paso mecánico a medio plazo.
