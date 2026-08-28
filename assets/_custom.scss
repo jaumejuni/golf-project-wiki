@@ -61,6 +61,15 @@
   width: 100%;
 }
 
+.book-page .book-article figure.flow-figure.full-width {
+  width: 100%;
+}
+
+.book-page .book-article figure.flow-figure.full-width img,
+.book-page .book-article figure.flow-figure.full-width video {
+  width: 100%;
+}
+
 /* Prevent global media float rules from forcing figure contents to the right. */
 .book-page .book-article figure.flow-figure img,
 .book-page .book-article figure.flow-figure video {

@@ -30,8 +30,18 @@ Pasó casi un año. Durante ese tiempo, probamos varias combinaciones, pero ning
 
 Funcionó. De repente, el motor funcionaba bien. Todavía necesitaba ajustes, pero al menos funcionaba correctamente. Por fin teníamos una base sólida sobre la que trabajar.
 
-Esta vez, no quisimos arriesgarnos. Llevamos el coche a un taller especializado para la reprogramación de la centralita (Stage 3).
+Esta vez no quisimos correr riesgos. Enviamos el coche a un preparador profesional para realizar la reprogramación Stage 3.
 
-Aquí tenéis una prueba de reprogramación en la que monitorizamos los parámetros:
+El proceso de ajuste requirió más de veinte pasadas por el banco de potencia, modificando y validando progresivamente la calibración de la ECU. Durante las pruebas se monitorizaron la detonación, la lambda, la presión del turbo, la carga del motor y las temperaturas, no solo para comprobar que el motor entregaba la potencia esperada, sino también que lo hacía de forma segura y consistente.
 
-Las cifras finales (para ser prudentes) fueron de 274 CV y 440 Nm
+La siguiente gráfica muestra la última pasada por el banco.
+
+<figure class="flow-figure full-width"><img src="/images/golf-dyno.jpeg"></figure>
+
+El resultado final fue de **273,2 CV y 445 Nm**.
+
+El objetivo no era extraer la máxima potencia posible del K04. Este es un coche de calle construido sobre la base de un Golf Mk3 de 1996, por lo que optamos deliberadamente por una calibración conservadora, priorizando la fiabilidad, una entrega de potencia predecible y la estabilidad térmica frente a conseguir la cifra más alta posible en el banco.
+
+La forma de las curvas es probablemente más importante que las cifras máximas. El par aumenta rápidamente y se mantiene elevado durante la zona útil de revoluciones, mientras que la potencia continúa aumentando progresivamente hacia la parte alta del cuentavueltas. Para un coche de calle, el resultado es mucho más útil que limitarse a perseguir una cifra de potencia máxima más elevada.
+
+Las sesiones en el banco también sirvieron, de forma inesperada, para poner a prueba el resto de la conversión. Después de más de veinte pasadas a plena carga, el sistema de refrigeración se mantuvo completamente estable, lo que nos dio mucha más confianza en el conjunto sobredimensionado de radiador, intercooler y ventiladores.

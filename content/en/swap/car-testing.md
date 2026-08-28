@@ -27,9 +27,19 @@ Almost a year passed. During that time, we tested multiple combinations, but not
 It worked. Suddenly, the engine was running fine. It still needed tuning, but at least it was running properly. Finally, we had a solid foundation to build on.
 <figure class="flow-figure right stack same-width"><video controls><source src="/images/tunning-video-01.webm" type="video/webm"></video></figure>
 
-This time, we did not take chances. We sent the car to a professional tuner for the Stage 3 tuning.
 
-Here is a tuning run with us monitoring the parameters:
+This time, we did not take chances. We sent the car to a professional tuner for the Stage 3 calibration.
 
+The tuning process involved more than twenty dyno runs while progressively adjusting and validating the ECU calibration. During the runs, knock, lambda, boost pressure, engine load and temperatures were monitored to make sure that the engine was not only producing the expected power, but doing so safely and consistently.
 
-The final figures (we wanted to be conservative) came in at 274hp and 440 Nm.
+The graph below shows the final dyno run.
+
+<figure class="flow-figure full-width"><img src="/images/golf-dyno.jpeg"></figure>
+
+The final result was **273.2 hp and 445 Nm**.
+
+The objective was not to extract the maximum possible power from the K04. This is a road car built around a 1996 Golf Mk3 chassis, so we deliberately chose a conservative calibration, prioritising reliability, predictable power delivery and thermal stability over the highest possible dyno figure.
+
+The shape of the curves is probably more important than the peak numbers. Torque builds quickly and remains strong through the useful part of the rev range, while power continues to increase progressively towards the top end. For a road car, this should provide a much more useful result than simply chasing a larger peak-power number.
+
+The dyno sessions also provided an unexpectedly useful test of the rest of the conversion. After more than twenty high-load runs, the cooling system remained completely stable, giving us considerably more confidence in the oversized radiator, intercooler and fan arrangement.
